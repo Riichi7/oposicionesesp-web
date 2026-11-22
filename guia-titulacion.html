@@ -1,0 +1,154 @@
+<!doctype html>
+<!--
+  Guía de titulación (TREBEP, art. 76, disposición adicional 6ª y disposición transitoria 3ª).
+  Selector interactivo: js/guia.js
+-->
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- SEO:inicio (generado por scripts/seo.py; no editar a mano) -->
+  <title>¿A qué oposiciones puedo presentarme con mi titulación? · Grupos A1, A2, B, C1 y C2</title>
+  <meta name="description" content="Guía de los grupos y subgrupos del TREBEP (A1, A2, B, C1, C2 y Agrupaciones Profesionales): qué titulación pide cada uno y a cuáles puedes presentarte con la tuya.">
+  <link rel="canonical" href="https://riichi7.github.io/oposicionesesp-web/guia-titulacion.html">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_ES">
+  <meta property="og:site_name" content="OposicionesESP">
+  <meta property="og:title" content="¿A qué oposiciones puedo presentarme con mi titulación?">
+  <meta property="og:description" content="ESO, Bachillerato, FP o Grado: descubre a qué grupos de oposiciones puedes optar según el TREBEP.">
+  <meta property="og:url" content="https://riichi7.github.io/oposicionesesp-web/guia-titulacion.html">
+  <meta property="og:image" content="https://riichi7.github.io/oposicionesesp-web/img/og-image.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OposicionesESP: logo de una campana dorada y el lema «Que no se te escape ninguna oposición»">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="¿A qué oposiciones puedo presentarme con mi titulación?">
+  <meta name="twitter:description" content="ESO, Bachillerato, FP o Grado: descubre a qué grupos de oposiciones puedes optar según el TREBEP.">
+  <meta name="twitter:image" content="https://riichi7.github.io/oposicionesesp-web/img/og-image.png">
+  <meta name="twitter:image:alt" content="OposicionesESP: logo de una campana dorada y el lema «Que no se te escape ninguna oposición»">
+  <!-- SEO:fin -->
+  <meta name="theme-color" content="#0B2F6B">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+  <link rel="preload" href="fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="config.js" defer></script>
+  <script src="js/guia.js" defer></script>
+  <!-- Estadísticas sin cookies (GoatCounter). En local no se cuenta nada. -->
+  <script>if(location.protocol==="file:"||/^(localhost|127\.\d+\.\d+\.\d+|\[::1\]|0\.0\.0\.0)$|\.local$/.test(location.hostname))window.goatcounter={no_onload:true,no_events:true};</script>
+  <script data-goatcounter="https://oposicionesesp.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+  <header class="site-header">
+    <div class="container">
+      <a class="logo" href="./" aria-label="OposicionesESP, ir al inicio">
+        <img src="img/logo.svg" alt="" width="36" height="36">
+        <span>Oposiciones<b>ESP</b></span>
+      </a>
+      <nav class="nav" id="menu" aria-label="Principal">
+        <ul>
+          <li><a href="./#como-funciona">Cómo funciona</a></li>
+          <li><a href="./#que-incluye">Qué incluye</a></li>
+          <li><a href="./#planes">Planes</a></li>
+          <li><a href="./#faq">Preguntas</a></li>
+          <li><a href="calculadora-plazos.html">Calculadora</a></li>
+          <li><a href="guia-titulacion.html" aria-current="page">Guía de titulación</a></li>
+        </ul>
+      </nav>
+      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESPbot?start=web">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <span class="nav-toggle__txt">Menú</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="contenido" class="page">
+    <div class="container">
+      <h1>¿A qué oposiciones puedo presentarme con mi titulación?</h1>
+      <p class="page__intro">Las plazas de funcionario se ordenan en <strong>grupos y subgrupos</strong> según la titulación que piden. Elige la tuya y te decimos a qué grupos puedes optar.</p>
+
+      <div class="card" id="selector" hidden>
+        <div class="field">
+          <label for="titulacion">Mi titulación es…</label>
+          <select id="titulacion">
+            <option value="">Elige tu titulación más alta</option>
+            <option value="sin">Sin titulación o sin terminar la ESO</option>
+            <option value="eso">Graduado en ESO (o equivalente)</option>
+            <option value="tecnico">Técnico (FP de Grado Medio)</option>
+            <option value="bach">Bachillerato</option>
+            <option value="tsup">Técnico Superior (FP de Grado Superior)</option>
+            <option value="grado">Grado universitario, Diplomatura, Licenciatura, Ingeniería o Arquitectura</option>
+            <option value="master">Máster universitario o Doctorado</option>
+          </select>
+        </div>
+        <div id="guia-resultado" aria-live="polite"></div>
+      </div>
+
+      <h2>Grupos y subgrupos de funcionarios</h2>
+      <p>El <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a76" rel="noopener">artículo 76 del Estatuto Básico del Empleado Público (TREBEP)</a> fija la titulación mínima de cada grupo:</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Titulación exigida por grupo (TREBEP)</caption>
+          <thead>
+            <tr><th scope="col">Grupo</th><th scope="col">Titulación mínima</th><th scope="col">Ejemplos</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">A1</th><td>Título universitario de Grado</td><td>Administradores Civiles del Estado, Inspectores de Hacienda, Profesores de Secundaria</td></tr>
+            <tr><th scope="row">A2</th><td>Título universitario de Grado</td><td>Gestión de la Administración Civil del Estado, Técnicos de Hacienda, Maestros</td></tr>
+            <tr><th scope="row">B</th><td>Técnico Superior (FP de Grado Superior)</td><td>Algunas plazas técnicas de comunidades autónomas y ayuntamientos</td></tr>
+            <tr><th scope="row">C1</th><td>Bachiller o Técnico (FP de Grado Medio)</td><td>Cuerpo General Administrativo, administrativos de comunidades y ayuntamientos</td></tr>
+            <tr><th scope="row">C2</th><td>Graduado en Educación Secundaria Obligatoria (ESO)</td><td>Cuerpo General Auxiliar (auxiliar administrativo)</td></tr>
+            <tr><th scope="row">Agrupaciones Profesionales</th><td>Sin requisito de titulación</td><td>Ordenanzas, subalternos y otros puestos de apoyo</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>La diferencia entre A1 y A2 no está en el título (los dos piden Grado), sino en el nivel de responsabilidad, las funciones y el tipo de pruebas que establece cada cuerpo.</p>
+      <p>La <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#dtercera" rel="noopener">disposición transitoria tercera</a> establece la equivalencia con los grupos antiguos (A, B, C, D y E), y las titulaciones anteriores al Grado, como Licenciatura, Diplomatura, Ingeniería o Arquitectura, siguen siendo válidas para presentarse. Las Agrupaciones Profesionales sin titulación están en la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#dasexta" rel="noopener">disposición adicional sexta</a>.</p>
+
+      <h2>Con un título superior puedes presentarte a los inferiores</h2>
+      <p>Cada nivel permite presentarse también a los grupos que piden menos titulación. Con Bachillerato puedes optar a C1, a C2 y a Agrupaciones Profesionales. Con un Grado puedes presentarte a cualquier grupo.</p>
+
+      <h2>Ojo: mira siempre las bases</h2>
+      <div class="box">
+        <p>Esta guía es orientativa. El requisito que vale es el que indican las <strong>bases de cada convocatoria</strong>.</p>
+      </div>
+      <ul>
+        <li><strong>Algunos cuerpos exigen un título concreto</strong>, no solo un nivel: Medicina o Enfermería para plazas sanitarias, Derecho para algunos cuerpos de Justicia, o el <strong>Máster de Formación del Profesorado</strong> para Secundaria y FP. También hay plazas que piden una especialidad de FP determinada.</li>
+        <li><strong>Fuerzas Armadas, Guardia Civil y Policía Nacional</strong> tienen sus propios sistemas de acceso, con escalas y requisitos de titulación, edad y aptitud física propios.</li>
+        <li>El <strong>personal laboral</strong> no se rige por estos grupos, sino por las categorías de su convenio colectivo.</li>
+        <li>Si tu título es <strong>extranjero</strong>, necesitarás su homologación o equivalencia.</li>
+      </ul>
+
+      <div class="cta-box">
+        <h2>Crea una alerta con tu titulación</h2>
+        <p>El bot te avisa cada mañana de las oposiciones nuevas del BOE y no te manda las que piden más titulación de la que tienes.</p>
+        <a class="btn btn--primary btn--lg" data-link="bot" data-start="guia" href="https://t.me/OposicionesESPbot?start=guia">Crea una alerta con tu titulación</a>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="disclaimer" role="note">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.5 2.5 20h19L12 3.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M12 10v4.5M12 17v.3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <p><strong>OposicionesESP es un proyecto independiente, no está afiliado al BOE ni a ninguna administración pública.</strong> Comprueba siempre las bases oficiales antes de presentarte.</p>
+      </div>
+      <ul class="footer__links">
+        <li><a href="./">Inicio</a></li>
+        <li><a href="privacidad.html">Privacidad</a></li>
+        <li><a href="aviso-legal.html">Aviso legal</a></li>
+        <li><a href="calculadora-plazos.html">Calculadora de plazos</a></li>
+        <li><a href="guia-titulacion.html" aria-current="page">Guía de titulación</a></li>
+        <li data-if="EMAIL_CONTACTO" hidden><a data-link="email" href="#">Contacto</a></li>
+        <li data-unless="EMAIL_CONTACTO">Contacto: próximamente</li>
+      </ul>
+      <p class="footer__bottom">© <span data-year>2026</span> OposicionesESP</p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -12,6 +12,12 @@
  *  Para activarlos basta con rellenar el valor.
  */
 window.OPOSICIONES_CONFIG = {
+  // URL pública de la web, sin barra final. Es la ÚNICA que hay que cambiar al pasar
+  // al dominio propio (https://oposicionesesp.es). Después ejecuta:
+  //   python3 scripts/seo.py
+  // para regenerar canonical, Open Graph, Twitter, sitemap.xml y robots.txt.
+  SITE_URL: "https://riichi7.github.io/oposicionesesp-web",
+
   // Nombre de usuario del bot, sin la @ (https://t.me/BOT_USERNAME)
   BOT_USERNAME: "OposicionesESPbot",
 
@@ -42,8 +48,11 @@ window.OPOSICIONES_CONFIG = {
 
   function apply() {
     // Enlaces: <a data-link="bot|canal|email">
+    // En los del bot se añade ?start=web (o el valor de data-start) para saber de dónde llegan.
     document.querySelectorAll("[data-link]").forEach(function (el) {
-      var u = urls[el.getAttribute("data-link")];
+      var tipo = el.getAttribute("data-link");
+      var u = urls[tipo];
+      if (u && tipo === "bot") u += "?start=" + encodeURIComponent(el.getAttribute("data-start") || "web");
       if (u) el.setAttribute("href", u);
     });
     // Textos: <span data-config="EMAIL_CONTACTO">
@@ -66,9 +75,48 @@ window.OPOSICIONES_CONFIG = {
     });
   }
 
+  // Estadísticas (GoatCounter): cada clic en un enlace al bot cuenta como evento.
+  // En local (localhost, 127.0.0.1, file://) no se cuenta nada.
+  var esLocal = location.protocol === "file:" ||
+    /^(localhost|127\.\d+\.\d+\.\d+|\[::1\]|0\.0\.0\.0)$|\.local$/.test(location.hostname);
+  document.addEventListener("click", function (e) {
+    var a = e.target.closest && e.target.closest('a[data-link="bot"]');
+    if (!a || esLocal) return;
+    var gc = window.goatcounter;
+    if (!gc || typeof gc.count !== "function") return;
+    var origen = a.getAttribute("data-start") || "web";
+    gc.count({
+      path: origen === "web" ? "abrir-telegram" : "abrir-telegram-" + origen,
+      title: "Clic en el bot desde " + (location.pathname.replace(/^.*\//, "") || "index.html"),
+      event: true
+    });
+  });
+
+  // Menú en móvil: botón .nav-toggle que abre/cierra la navegación
+  function menu() {
+    var btn = document.querySelector(".nav-toggle");
+    var nav = btn && document.getElementById(btn.getAttribute("aria-controls"));
+    if (!nav) return;
+    btn.hidden = false;
+    btn.addEventListener("click", function () {
+      var abierto = btn.getAttribute("aria-expanded") === "true";
+      btn.setAttribute("aria-expanded", String(!abierto));
+      nav.classList.toggle("is-open", !abierto);
+    });
+    nav.addEventListener("click", function (e) {
+      if (e.target.closest("a")) { btn.setAttribute("aria-expanded", "false"); nav.classList.remove("is-open"); }
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && btn.getAttribute("aria-expanded") === "true") {
+        btn.setAttribute("aria-expanded", "false"); nav.classList.remove("is-open"); btn.focus();
+      }
+    });
+  }
+
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", apply);
+    document.addEventListener("DOMContentLoaded", function () { apply(); menu(); });
   } else {
     apply();
+    menu();
   }
 })();

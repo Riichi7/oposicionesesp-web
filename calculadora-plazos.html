@@ -1,0 +1,166 @@
+<!doctype html>
+<!--
+  Calculadora de plazos (Ley 39/2015, art. 30).
+  Lógica: js/plazos.js · Festivos: js/festivos.js (con la fuente BOE de cada año) · Tests: tests/plazos.test.js
+-->
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- SEO:inicio (generado por scripts/seo.py; no editar a mano) -->
+  <title>Calculadora de plazos de oposiciones en días hábiles · OposicionesESP</title>
+  <meta name="description" content="Calcula gratis cuándo termina el plazo de solicitud de una oposición: días hábiles, naturales o meses según la Ley 39/2015, con festivos nacionales y autonómicos de 2026 y 2027.">
+  <link rel="canonical" href="https://riichi7.github.io/oposicionesesp-web/calculadora-plazos.html">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_ES">
+  <meta property="og:site_name" content="OposicionesESP">
+  <meta property="og:title" content="Calculadora de plazos de oposiciones en días hábiles">
+  <meta property="og:description" content="¿Cuándo acaba el plazo de inscripción? Días hábiles, naturales o meses, con los festivos oficiales del BOE.">
+  <meta property="og:url" content="https://riichi7.github.io/oposicionesesp-web/calculadora-plazos.html">
+  <meta property="og:image" content="https://riichi7.github.io/oposicionesesp-web/img/og-image.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OposicionesESP: logo de una campana dorada y el lema «Que no se te escape ninguna oposición»">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Calculadora de plazos de oposiciones en días hábiles">
+  <meta name="twitter:description" content="¿Cuándo acaba el plazo de inscripción? Días hábiles, naturales o meses, con los festivos oficiales del BOE.">
+  <meta name="twitter:image" content="https://riichi7.github.io/oposicionesesp-web/img/og-image.png">
+  <meta name="twitter:image:alt" content="OposicionesESP: logo de una campana dorada y el lema «Que no se te escape ninguna oposición»">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Calculadora de plazos de oposiciones", "url": "https://riichi7.github.io/oposicionesesp-web/calculadora-plazos.html", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Cualquiera", "inLanguage": "es-ES", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}}</script>
+  <!-- SEO:fin -->
+  <meta name="theme-color" content="#0B2F6B">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+  <link rel="preload" href="fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="config.js" defer></script>
+  <script src="js/festivos.js" defer></script>
+  <script src="js/plazos.js" defer></script>
+  <script src="js/calculadora.js" defer></script>
+  <!-- Estadísticas sin cookies (GoatCounter). En local no se cuenta nada. -->
+  <script>if(location.protocol==="file:"||/^(localhost|127\.\d+\.\d+\.\d+|\[::1\]|0\.0\.0\.0)$|\.local$/.test(location.hostname))window.goatcounter={no_onload:true,no_events:true};</script>
+  <script data-goatcounter="https://oposicionesesp.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+  <header class="site-header">
+    <div class="container">
+      <a class="logo" href="./" aria-label="OposicionesESP, ir al inicio">
+        <img src="img/logo.svg" alt="" width="36" height="36">
+        <span>Oposiciones<b>ESP</b></span>
+      </a>
+      <nav class="nav" id="menu" aria-label="Principal">
+        <ul>
+          <li><a href="./#como-funciona">Cómo funciona</a></li>
+          <li><a href="./#que-incluye">Qué incluye</a></li>
+          <li><a href="./#planes">Planes</a></li>
+          <li><a href="./#faq">Preguntas</a></li>
+          <li><a href="calculadora-plazos.html" aria-current="page">Calculadora</a></li>
+          <li><a href="guia-titulacion.html">Guía de titulación</a></li>
+        </ul>
+      </nav>
+      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESPbot?start=web">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <span class="nav-toggle__txt">Menú</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="contenido" class="page">
+    <div class="container">
+      <h1>Calculadora de plazos de oposiciones</h1>
+      <p class="page__intro">Calcula el último día para presentar tu solicitud. Indica cuándo se publicó la convocatoria y el plazo que dan las bases: en <strong>días hábiles</strong>, <strong>días naturales</strong> o <strong>meses</strong>.</p>
+
+      <form class="card" id="calc" novalidate>
+        <div class="form-grid">
+          <div class="field">
+            <label for="f-pub">Fecha de publicación</label>
+            <input type="date" id="f-pub" name="publicacion" required min="2000-01-01" max="2100-12-31" aria-describedby="f-pub-hint">
+            <span class="field__hint" id="f-pub-hint">Normalmente, la del extracto en el BOE (lo dicen las bases).</span>
+          </div>
+          <div class="field">
+            <label for="f-num">Duración del plazo</label>
+            <input type="number" id="f-num" name="cantidad" required min="1" max="365" step="1" value="20" inputmode="numeric" aria-describedby="f-num-hint">
+            <span class="field__hint" id="f-num-hint">Lo más habitual son 20 días hábiles.</span>
+          </div>
+          <fieldset class="field field--full">
+            <legend>Tipo de plazo</legend>
+            <div class="choices">
+              <label class="choice"><input type="radio" name="tipo" value="habiles" checked><span>Días hábiles</span></label>
+              <label class="choice"><input type="radio" name="tipo" value="naturales"><span>Días naturales</span></label>
+              <label class="choice"><input type="radio" name="tipo" value="meses"><span>Meses</span></label>
+            </div>
+          </fieldset>
+          <div class="field field--full">
+            <label for="f-ccaa">Comunidad autónoma <span style="font-weight:500">(opcional)</span></label>
+            <select id="f-ccaa" name="ccaa" aria-describedby="f-ccaa-hint">
+              <option value="">Solo festivos nacionales</option>
+            </select>
+            <span class="field__hint" id="f-ccaa-hint">Añade los festivos de la comunidad donde está el organismo convocante.</span>
+          </div>
+        </div>
+        <div class="form-actions">
+          <button class="btn btn--primary" type="submit">Calcular el plazo</button>
+        </div>
+        <p class="form-error" id="calc-error" role="alert" hidden></p>
+        <noscript><p class="form-error">La calculadora necesita JavaScript activado.</p></noscript>
+      </form>
+
+      <div id="resultado" aria-live="polite"></div>
+
+      <div class="box" role="note">
+        <p><strong>Cálculo orientativo. No incluye festivos locales. Comprueba siempre el plazo en las bases oficiales.</strong></p>
+      </div>
+
+      <p id="estado-festivos" class="field__hint"></p>
+
+      <h2>Cómo se calcula</h2>
+      <p>La calculadora aplica las reglas del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a30" rel="noopener">artículo 30 de la Ley 39/2015</a>, del Procedimiento Administrativo Común, que es la que usan casi todas las convocatorias:</p>
+      <ul>
+        <li><strong>Se empieza a contar el día siguiente</strong> a la publicación.</li>
+        <li><strong>Días hábiles:</strong> no cuentan los sábados, los domingos ni los festivos. Si las bases dicen solo «días», son hábiles.</li>
+        <li><strong>Días naturales:</strong> cuentan todos los días, también fines de semana y festivos.</li>
+        <li><strong>Meses:</strong> el plazo acaba el mismo día del mes final (publicado el 15 de marzo con 1 mes, acaba el 15 de abril). Si ese día no existe, acaba el último día del mes (del 31 de enero, 1 mes, al 28 o 29 de febrero).</li>
+        <li><strong>Si el último día es inhábil</strong> (sábado, domingo o festivo), el plazo pasa al <strong>siguiente día hábil</strong>.</li>
+      </ul>
+
+      <h2>Festivos que se tienen en cuenta</h2>
+      <p>Los días inhábiles nacionales y de cada comunidad autónoma salen de las resoluciones oficiales que fijan cada año el calendario de días inhábiles a efectos de cómputo de plazos, publicadas en el BOE:</p>
+      <ul id="fuentes-festivos">
+        <li>2026: <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-23702" rel="noopener">Resolución de 18 de noviembre de 2025 (BOE-A-2025-23702)</a></li>
+        <li>2027: <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23826" rel="noopener">Resolución de 5 de noviembre de 2026 (BOE-A-2026-23826)</a></li>
+      </ul>
+      <p>No se incluyen los festivos locales de cada municipio, ni los insulares de Canarias, ni la Fiesta de Arán. Si la convocatoria es de un ayuntamiento o de una isla, revisa también su calendario.</p>
+
+      <div class="cta-box">
+        <h2>Entérate el mismo día en que se publica</h2>
+        <p>Cuantos más días te quedan de plazo, mejor. El bot te avisa cada mañana de las convocatorias nuevas del BOE que encajan con tu perfil.</p>
+        <a class="btn btn--primary btn--lg" data-link="bot" href="https://t.me/OposicionesESPbot?start=web">Abrir en Telegram</a>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="disclaimer" role="note">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.5 2.5 20h19L12 3.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M12 10v4.5M12 17v.3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <p><strong>OposicionesESP es un proyecto independiente, no está afiliado al BOE ni a ninguna administración pública.</strong> Comprueba siempre las bases oficiales antes de presentarte.</p>
+      </div>
+      <ul class="footer__links">
+        <li><a href="./">Inicio</a></li>
+        <li><a href="privacidad.html">Privacidad</a></li>
+        <li><a href="aviso-legal.html">Aviso legal</a></li>
+        <li><a href="calculadora-plazos.html" aria-current="page">Calculadora de plazos</a></li>
+        <li><a href="guia-titulacion.html">Guía de titulación</a></li>
+        <li data-if="EMAIL_CONTACTO" hidden><a data-link="email" href="#">Contacto</a></li>
+        <li data-unless="EMAIL_CONTACTO">Contacto: próximamente</li>
+      </ul>
+      <p class="footer__bottom">© <span data-year>2026</span> OposicionesESP</p>
+    </div>
+  </footer>
+</body>
+</html>

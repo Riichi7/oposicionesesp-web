@@ -8,23 +8,37 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- SEO:inicio (generado por scripts/seo.py; no editar a mano) -->
   <title>Aviso legal · OposicionesESP</title>
   <meta name="description" content="Titular, condiciones de uso y limitación de responsabilidad del bot de Telegram OposicionesESP.">
-  <meta name="theme-color" content="#0B2F6B">
-  <link rel="canonical" href="https://tu-usuario.github.io/oposicionesesp-web/aviso-legal.html">
+  <link rel="canonical" href="https://riichi7.github.io/oposicionesesp-web/aviso-legal.html">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="es_ES">
   <meta property="og:site_name" content="OposicionesESP">
   <meta property="og:title" content="Aviso legal · OposicionesESP">
   <meta property="og:description" content="Titular, condiciones de uso y limitación de responsabilidad del bot de Telegram OposicionesESP.">
-  <meta property="og:url" content="https://tu-usuario.github.io/oposicionesesp-web/aviso-legal.html">
-  <meta property="og:image" content="https://tu-usuario.github.io/oposicionesesp-web/img/og-image.png">
+  <meta property="og:url" content="https://riichi7.github.io/oposicionesesp-web/aviso-legal.html">
+  <meta property="og:image" content="https://riichi7.github.io/oposicionesesp-web/img/og-image.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OposicionesESP: logo de una campana dorada y el lema «Que no se te escape ninguna oposición»">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Aviso legal · OposicionesESP">
+  <meta name="twitter:description" content="Titular, condiciones de uso y limitación de responsabilidad del bot de Telegram OposicionesESP.">
+  <meta name="twitter:image" content="https://riichi7.github.io/oposicionesesp-web/img/og-image.png">
+  <meta name="twitter:image:alt" content="OposicionesESP: logo de una campana dorada y el lema «Que no se te escape ninguna oposición»">
+  <!-- SEO:fin -->
+  <meta name="theme-color" content="#0B2F6B">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="icon" href="favicon.ico" sizes="32x32">
   <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
   <link rel="preload" href="fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="css/styles.css">
   <script src="config.js" defer></script>
+  <!-- Estadísticas sin cookies (GoatCounter). En local no se cuenta nada. -->
+  <script>if(location.protocol==="file:"||/^(localhost|127\.\d+\.\d+\.\d+|\[::1\]|0\.0\.0\.0)$|\.local$/.test(location.hostname))window.goatcounter={no_onload:true,no_events:true};</script>
+  <script data-goatcounter="https://oposicionesesp.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
   <a class="skip-link" href="#contenido">Saltar al contenido</a>
@@ -35,7 +49,21 @@
         <img src="img/logo.svg" alt="" width="36" height="36">
         <span>Oposiciones<b>ESP</b></span>
       </a>
-      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESPbot">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
+      <nav class="nav" id="menu" aria-label="Principal">
+        <ul>
+          <li><a href="./#como-funciona">Cómo funciona</a></li>
+          <li><a href="./#que-incluye">Qué incluye</a></li>
+          <li><a href="./#planes">Planes</a></li>
+          <li><a href="./#faq">Preguntas</a></li>
+          <li><a href="calculadora-plazos.html">Calculadora</a></li>
+          <li><a href="guia-titulacion.html">Guía de titulación</a></li>
+        </ul>
+      </nav>
+      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESPbot?start=web">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <span class="nav-toggle__txt">Menú</span>
+      </button>
     </div>
   </header>
 
@@ -93,6 +121,8 @@
         <li><a href="./">Inicio</a></li>
         <li><a href="privacidad.html">Privacidad</a></li>
         <li><a href="aviso-legal.html" aria-current="page">Aviso legal</a></li>
+        <li><a href="calculadora-plazos.html">Calculadora de plazos</a></li>
+        <li><a href="guia-titulacion.html">Guía de titulación</a></li>
         <li data-if="EMAIL_CONTACTO" hidden><a data-link="email" href="#">Contacto</a></li>
         <li data-unless="EMAIL_CONTACTO">Contacto: próximamente</li>
       </ul>
