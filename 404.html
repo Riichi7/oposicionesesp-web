@@ -39,7 +39,7 @@
         <img src="img/logo.svg" alt="" width="36" height="36">
         <span>Oposiciones<b>ESP</b></span>
       </a>
-      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESP_bot">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
+      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESPbot">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
     </div>
   </header>
 
@@ -50,7 +50,7 @@
       <p>Puede que el enlace esté mal escrito o que la página se haya movido. Pero tranquilo: las oposiciones siguen llegando.</p>
       <div class="hero__actions">
         <a class="btn btn--primary btn--lg" href="./">Volver al inicio</a>
-        <a class="btn btn--outline" data-link="bot" href="https://t.me/OposicionesESP_bot">Abrir en Telegram</a>
+        <a class="btn btn--outline" data-link="bot" href="https://t.me/OposicionesESPbot">Abrir en Telegram</a>
       </div>
     </div>
   </main>
@@ -65,7 +65,8 @@
         <li><a href="./">Inicio</a></li>
         <li><a href="privacidad.html">Privacidad</a></li>
         <li><a href="aviso-legal.html">Aviso legal</a></li>
-        <li><a data-link="email" href="mailto:contacto@ejemplo.com">Contacto</a></li>
+        <li data-if="EMAIL_CONTACTO" hidden><a data-link="email" href="#">Contacto</a></li>
+        <li data-unless="EMAIL_CONTACTO">Contacto: próximamente</li>
       </ul>
       <p class="footer__bottom">© <span data-year>2026</span> OposicionesESP</p>
     </div>

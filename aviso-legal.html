@@ -35,7 +35,7 @@
         <img src="img/logo.svg" alt="" width="36" height="36">
         <span>Oposiciones<b>ESP</b></span>
       </a>
-      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESP_bot">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
+      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESPbot">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
     </div>
   </header>
 
@@ -47,10 +47,10 @@
       <h2>1. Titular</h2>
       <p>En cumplimiento de la Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico (LSSI-CE), se informa de los datos del titular de esta web y del bot de Telegram OposicionesESP:</p>
       <ul>
-        <li><strong>Titular:</strong> <span data-config="NOMBRE_RESPONSABLE">Nombre Apellido Ejemplo</span></li>
-        <li><strong>NIF:</strong> <span data-config="NIF_RESPONSABLE">00000000X</span></li>
-        <li><strong>Domicilio:</strong> <span data-config="DOMICILIO_RESPONSABLE">Calle Ejemplo 1, 28000 Madrid (España)</span></li>
-        <li><strong>Contacto:</strong> <a data-link="email" href="mailto:contacto@ejemplo.com"><span data-config="EMAIL_CONTACTO">contacto@ejemplo.com</span></a></li>
+        <li><strong>Titular:</strong> <span data-config="NOMBRE_RESPONSABLE">Ricardo Villaitodo</span></li>
+        <li data-if="NIF_RESPONSABLE" hidden><strong>NIF:</strong> <span data-config="NIF_RESPONSABLE"></span></li>
+        <li data-if="DOMICILIO_RESPONSABLE" hidden><strong>Domicilio:</strong> <span data-config="DOMICILIO_RESPONSABLE"></span></li>
+        <li><strong>Contacto:</strong> <a data-if="EMAIL_CONTACTO" hidden data-link="email" href="#"><span data-config="EMAIL_CONTACTO"></span></a><span data-unless="EMAIL_CONTACTO">próximamente</span></li>
       </ul>
 
       <h2>2. Objeto</h2>
@@ -93,7 +93,8 @@
         <li><a href="./">Inicio</a></li>
         <li><a href="privacidad.html">Privacidad</a></li>
         <li><a href="aviso-legal.html" aria-current="page">Aviso legal</a></li>
-        <li><a data-link="email" href="mailto:contacto@ejemplo.com">Contacto</a></li>
+        <li data-if="EMAIL_CONTACTO" hidden><a data-link="email" href="#">Contacto</a></li>
+        <li data-unless="EMAIL_CONTACTO">Contacto: próximamente</li>
       </ul>
       <p class="footer__bottom">© <span data-year>2026</span> OposicionesESP</p>
     </div>

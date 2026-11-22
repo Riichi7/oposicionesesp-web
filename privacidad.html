@@ -35,7 +35,7 @@
         <img src="img/logo.svg" alt="" width="36" height="36">
         <span>Oposiciones<b>ESP</b></span>
       </a>
-      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESP_bot">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
+      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESPbot">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
     </div>
   </header>
 
@@ -50,10 +50,10 @@
 
       <h2>1. Responsable del tratamiento</h2>
       <ul>
-        <li><strong>Responsable:</strong> <span data-config="NOMBRE_RESPONSABLE">Nombre Apellido Ejemplo</span></li>
-        <li><strong>NIF:</strong> <span data-config="NIF_RESPONSABLE">00000000X</span></li>
-        <li><strong>Domicilio:</strong> <span data-config="DOMICILIO_RESPONSABLE">Calle Ejemplo 1, 28000 Madrid (España)</span></li>
-        <li><strong>Correo de contacto:</strong> <a data-link="email" href="mailto:contacto@ejemplo.com"><span data-config="EMAIL_CONTACTO">contacto@ejemplo.com</span></a></li>
+        <li><strong>Responsable:</strong> <span data-config="NOMBRE_RESPONSABLE">Ricardo Villaitodo</span></li>
+        <li data-if="NIF_RESPONSABLE" hidden><strong>NIF:</strong> <span data-config="NIF_RESPONSABLE"></span></li>
+        <li data-if="DOMICILIO_RESPONSABLE" hidden><strong>Domicilio:</strong> <span data-config="DOMICILIO_RESPONSABLE"></span></li>
+        <li><strong>Correo de contacto:</strong> <a data-if="EMAIL_CONTACTO" hidden data-link="email" href="#"><span data-config="EMAIL_CONTACTO"></span></a><span data-unless="EMAIL_CONTACTO">próximamente</span></li>
       </ul>
 
       <h2>2. Qué datos tratamos</h2>
@@ -75,7 +75,7 @@
       <h2>5. Cuánto tiempo los conservamos</h2>
       <ul>
         <li>Mientras tengas alertas activas y uses el bot.</li>
-        <li>Si usas <code>/borrardatos</code>, se eliminan en el momento. Si nos lo pides por correo, los eliminamos como máximo en 30 días.</li>
+        <li>Si usas <code>/borrardatos</code>, se eliminan en el momento.<span data-if="EMAIL_CONTACTO" hidden> Si nos lo pides por correo, los eliminamos como máximo en 30 días.</span></li>
         <li>Si bloqueas el bot, tus datos se eliminan automáticamente la próxima vez que el bot intente enviarte un mensaje y Telegram indique que no se puede entregar. Si quieres que se borren ya, usa <code>/borrardatos</code> antes de bloquearlo.</li>
         <li>El registro de avisos enviados se conserva mientras exista tu usuario y se borra junto con él.</li>
       </ul>
@@ -98,7 +98,8 @@
       <h2>8. Cómo borrar tus datos</h2>
       <div class="box">
         <p><strong>Opción rápida:</strong> escribe <code>/borrardatos</code> en el bot. Se eliminarán tu identificador de chat, todas tus alertas y el historial de avisos.</p>
-        <p style="margin:0"><strong>Por correo:</strong> escribe a <a data-link="email" href="mailto:contacto@ejemplo.com"><span data-config="EMAIL_CONTACTO">contacto@ejemplo.com</span></a> indicando tu alias de Telegram o enviándonos el número que te devuelve el comando <code>/miid</code>, para poder identificar tu chat. Te responderemos en un plazo máximo de un mes.</p>
+        <p style="margin:0" data-unless="EMAIL_CONTACTO"><strong>Por correo:</strong> próximamente.</p>
+        <p style="margin:0" data-if="EMAIL_CONTACTO" hidden><strong>Por correo:</strong> escribe a <a data-link="email" href="#"><span data-config="EMAIL_CONTACTO"></span></a> indicando tu alias de Telegram o enviándonos el número que te devuelve el comando <code>/miid</code>, para poder identificar tu chat. Te responderemos en un plazo máximo de un mes.</p>
       </div>
 
       <h2>9. Reclamaciones</h2>
@@ -119,7 +120,8 @@
         <li><a href="./">Inicio</a></li>
         <li><a href="privacidad.html" aria-current="page">Privacidad</a></li>
         <li><a href="aviso-legal.html">Aviso legal</a></li>
-        <li><a data-link="email" href="mailto:contacto@ejemplo.com">Contacto</a></li>
+        <li data-if="EMAIL_CONTACTO" hidden><a data-link="email" href="#">Contacto</a></li>
+        <li data-unless="EMAIL_CONTACTO">Contacto: próximamente</li>
       </ul>
       <p class="footer__bottom">© <span data-year>2026</span> OposicionesESP</p>
     </div>

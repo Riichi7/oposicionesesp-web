@@ -25,32 +25,26 @@ robots.txt          Instrucciones para buscadores
 Abre **`config.js`** y cambia los valores:
 
 ```js
-BOT_USERNAME: "OposicionesESP_bot",     // sin @  → https://t.me/OposicionesESP_bot
-CANAL_USERNAME: "OposicionesESP",       // sin @  → https://t.me/OposicionesESP
-EMAIL_CONTACTO: "contacto@ejemplo.com",
-NOMBRE_RESPONSABLE: "Nombre Apellido Ejemplo",
-NIF_RESPONSABLE: "00000000X",
-DOMICILIO_RESPONSABLE: "Calle Ejemplo 1, 28000 Madrid (España)"
+BOT_USERNAME: "OposicionesESPbot",      // sin @  → https://t.me/OposicionesESPbot
+CANAL_USERNAME: "",                     // sin @; vacío = canal oculto
+EMAIL_CONTACTO: "",                     // vacío = el contacto aparece como «próximamente»
+NOMBRE_RESPONSABLE: "Ricardo Villaitodo",
+NIF_RESPONSABLE: "",                    // vacío = no se muestra esa línea
+DOMICILIO_RESPONSABLE: ""               // vacío = no se muestra esa línea
 ```
 
 Todas las páginas aplican estos valores automáticamente a los enlaces (`data-link="bot|canal|email"`)
-y a los textos (`data-config="..."`).
+y a los textos (`data-config="..."`). Los elementos marcados con `data-if="CLAVE"` solo se muestran si
+esa clave tiene valor, y los marcados con `data-unless="CLAVE"` solo si está vacía (por ejemplo, el texto
+«próximamente»).
 
-> **Recomendado:** los HTML llevan esos mismos valores de ejemplo escritos como respaldo, por si alguien
-> navega sin JavaScript y para que los buscadores vean los enlaces correctos. Para dejarlo todo perfecto,
-> sustitúyelos también en los HTML de una vez (ajusta los valores nuevos):
->
-> ```bash
-> sed -i \
->   -e 's/OposicionesESP_bot/MiBot_bot/g' \
->   -e 's#t.me/OposicionesESP"#t.me/MiCanal"#g' \
->   -e 's/@OposicionesESP</@MiCanal</g' \
->   -e 's/contacto@ejemplo.com/yo@midominio.es/g' \
->   -e 's/Nombre Apellido Ejemplo/Mi Nombre Real/g' \
->   -e 's/00000000X/12345678Z/g' \
->   -e 's/Calle Ejemplo 1, 28000 Madrid (España)/Mi dirección/g' \
->   *.html
-> ```
+**Activar el canal o el correo cuando existan:** basta con rellenar `CANAL_USERNAME` o `EMAIL_CONTACTO`
+en `config.js`; la sección del canal, los enlaces y el correo aparecen solos y desaparecen los
+«próximamente».
+
+> Sin JavaScript, los HTML muestran el estado actual (canal oculto, contacto «próximamente»). Si quieres
+> que también se vea el canal/correo sin JavaScript, quita el atributo `hidden` de los elementos
+> `data-if` correspondientes, rellena su `href`/texto y borra los `data-unless`.
 
 ### URL pública (SEO y Open Graph)
 

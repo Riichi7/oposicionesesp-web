@@ -1,7 +1,8 @@
 <!doctype html>
 <!--
   CONFIGURACIÓN: los enlaces al bot, al canal y el correo se cambian en /config.js
-  (BOT_USERNAME, CANAL_USERNAME, EMAIL_CONTACTO). La URL pública de la web
+  (BOT_USERNAME, CANAL_USERNAME, EMAIL_CONTACTO). Si el canal o el correo están vacíos,
+  sus elementos (data-if / data-unless) se ocultan o muestran «próximamente». La URL pública de la web
   (canonical, Open Graph) se cambia buscando "tu-usuario.github.io" — ver README.md.
 -->
 <html lang="es">
@@ -78,7 +79,7 @@
           <li><a href="#faq">Preguntas</a></li>
         </ul>
       </nav>
-      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESP_bot">Abrir en Telegram</a>
+      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESPbot">Abrir en Telegram</a>
     </div>
   </header>
 
@@ -90,7 +91,7 @@
           <h1 id="hero-title">Que no se te escape ninguna oposición</h1>
           <p class="hero__lead">Un bot de Telegram gratuito que revisa el BOE por ti y te avisa cada mañana, de lunes a sábado, de las convocatorias nuevas que encajan con tu perfil.</p>
           <div class="hero__actions">
-            <a class="btn btn--primary btn--lg" data-link="bot" href="https://t.me/OposicionesESP_bot">
+            <a class="btn btn--primary btn--lg" data-link="bot" href="https://t.me/OposicionesESPbot">
               <svg aria-hidden="true"><use href="#i-send"/></svg>
               Abrir en Telegram
             </a>
@@ -238,7 +239,7 @@
               <li><svg aria-hidden="true"><use href="#i-check"/></svg>Aviso de lunes a sábado con las novedades del BOE</li>
               <li><svg aria-hidden="true"><use href="#i-check"/></svg>Enlace directo al anuncio oficial y su PDF</li>
             </ul>
-            <a class="btn btn--primary" data-link="bot" href="https://t.me/OposicionesESP_bot">Empezar gratis</a>
+            <a class="btn btn--primary" data-link="bot" href="https://t.me/OposicionesESPbot">Empezar gratis</a>
           </article>
           <article class="plan" aria-labelledby="plan-premium">
             <span class="plan__badge plan__badge--muted">Próximamente</span>
@@ -277,7 +278,7 @@
           </details>
           <details>
             <summary>¿Cómo me doy de baja?</summary>
-            <div class="faq__body"><p>Puedes borrar tus alertas desde el propio bot con <code>/borrar</code>, o detener o bloquear el bot en Telegram. Si además quieres que borremos todos tus datos, envía el comando <code>/borrardatos</code> o escríbenos a <a data-link="email" href="mailto:contacto@ejemplo.com"><span data-config="EMAIL_CONTACTO">contacto@ejemplo.com</span></a>.</p></div>
+            <div class="faq__body"><p>Puedes borrar tus alertas desde el propio bot con <code>/borrar</code>, o detener o bloquear el bot en Telegram. Si además quieres que borremos todos tus datos, envía el comando <code>/borrardatos</code><span data-if="EMAIL_CONTACTO" hidden> o escríbenos a <a data-link="email" href="#"><span data-config="EMAIL_CONTACTO"></span></a></span>.</p></div>
           </details>
           <details>
             <summary>¿Qué datos guardáis?</summary>
@@ -288,14 +289,14 @@
     </section>
 
     <!-- ===== CANAL ===== -->
-    <section class="section" aria-labelledby="canal-title">
+    <section class="section" aria-labelledby="canal-title" data-if="CANAL_USERNAME" hidden>
       <div class="container">
         <div class="channel">
           <div>
             <h2 id="canal-title">Síguenos también en el canal</h2>
-            <p>Novedades del bot, convocatorias destacadas y avisos importantes en <span data-config="CANAL_USERNAME">@OposicionesESP</span>.</p>
+            <p>Novedades del bot, convocatorias destacadas y avisos importantes en <span data-config="CANAL_USERNAME"></span>.</p>
           </div>
-          <a class="btn btn--outline-light" data-link="canal" href="https://t.me/OposicionesESP">
+          <a class="btn btn--outline-light" data-link="canal" href="#">
             <svg aria-hidden="true"><use href="#i-mega"/></svg>
             Ir al canal de Telegram
           </a>
@@ -318,8 +319,9 @@
         <ul class="footer__links">
           <li><a href="privacidad.html">Privacidad</a></li>
           <li><a href="aviso-legal.html">Aviso legal</a></li>
-          <li><a data-link="canal" href="https://t.me/OposicionesESP">Canal de Telegram</a></li>
-          <li><a data-link="email" href="mailto:contacto@ejemplo.com">Contacto</a></li>
+          <li data-if="CANAL_USERNAME" hidden><a data-link="canal" href="#">Canal de Telegram</a></li>
+          <li data-if="EMAIL_CONTACTO" hidden><a data-link="email" href="#">Contacto</a></li>
+          <li data-unless="EMAIL_CONTACTO">Contacto: próximamente</li>
         </ul>
       </div>
       <p class="footer__bottom">© <span data-year>2026</span> OposicionesESP · Datos obtenidos de los datos abiertos del BOE.</p>
@@ -327,7 +329,7 @@
   </footer>
 
   <div class="mobile-cta">
-    <a class="btn btn--primary btn--lg" data-link="bot" href="https://t.me/OposicionesESP_bot">
+    <a class="btn btn--primary btn--lg" data-link="bot" href="https://t.me/OposicionesESPbot">
       <svg aria-hidden="true"><use href="#i-send"/></svg>
       Abrir en Telegram
     </a>
