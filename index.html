@@ -1,0 +1,336 @@
+<!doctype html>
+<!--
+  CONFIGURACIÓN: los enlaces al bot, al canal y el correo se cambian en /config.js
+  (BOT_USERNAME, CANAL_USERNAME, EMAIL_CONTACTO). La URL pública de la web
+  (canonical, Open Graph) se cambia buscando "tu-usuario.github.io" — ver README.md.
+-->
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OposicionesESP · Avisos gratis de oposiciones del BOE en Telegram</title>
+  <meta name="description" content="Bot de Telegram gratuito que te avisa cada mañana de las oposiciones nuevas publicadas en el BOE. Filtra por categoría, provincia y titulación.">
+  <meta name="theme-color" content="#0B2F6B">
+  <link rel="canonical" href="https://tu-usuario.github.io/oposicionesesp-web/">
+
+  <!-- Open Graph / redes sociales -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_ES">
+  <meta property="og:site_name" content="OposicionesESP">
+  <meta property="og:title" content="OposicionesESP · Que no se te escape ninguna oposición">
+  <meta property="og:description" content="Bot de Telegram gratuito que te avisa de las oposiciones nuevas del BOE según tu categoría, provincia y titulación.">
+  <meta property="og:url" content="https://tu-usuario.github.io/oposicionesesp-web/">
+  <meta property="og:image" content="https://tu-usuario.github.io/oposicionesesp-web/img/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Logo de OposicionesESP: una campana dorada sobre fondo azul">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+  <link rel="preload" href="fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="config.js" defer></script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "OposicionesESP",
+    "url": "https://tu-usuario.github.io/oposicionesesp-web/",
+    "inLanguage": "es-ES",
+    "description": "Bot de Telegram gratuito con avisos de oposiciones nuevas publicadas en el BOE."
+  }
+  </script>
+</head>
+<body class="has-mobile-cta">
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+  <!-- Iconos SVG reutilizables -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+    <symbol id="i-send" viewBox="0 0 24 24"><path d="M21.5 3.5 2.8 10.7c-.9.3-.9 1.6 0 1.9l4.7 1.6 1.8 5.7c.3.8 1.3 1 1.9.4l2.7-2.6 4.8 3.5c.7.5 1.7.1 1.9-.7l3-15.2c.2-1-.8-1.8-1.8-1.4zM9.6 14.4l9-7.6-7 9" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12.5 4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3 4.5 6v5.5c0 4.6 3.2 8.3 7.5 9.5 4.3-1.2 7.5-4.9 7.5-9.5V6L12 3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m8.8 12 2.2 2.2 4.2-4.4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 11v6M12 7.5v.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+    <symbol id="i-tag" viewBox="0 0 24 24"><path d="M3.5 12.3V4.5c0-.6.4-1 1-1h7.8c.3 0 .5.1.7.3l7.6 7.6c.4.4.4 1 0 1.4l-7.8 7.8c-.4.4-1 .4-1.4 0L3.8 13a1 1 0 0 1-.3-.7z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><circle cx="8" cy="8" r="1.5" fill="currentColor"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s-6.5-5.8-6.5-11a6.5 6.5 0 0 1 13 0c0 5.2-6.5 11-6.5 11z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><circle cx="12" cy="10" r="2.4" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+    <symbol id="i-cap" viewBox="0 0 24 24"><path d="M2.5 9 12 4.5 21.5 9 12 13.5 2.5 9z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M6.5 11v5c0 1.4 2.5 3 5.5 3s5.5-1.6 5.5-3v-5M21.5 9v5.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-door" viewBox="0 0 24 24"><path d="M5 20.5h14M7 20.5V4.5c0-.6.4-1 1-1h8c.6 0 1 .4 1 1v16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="14" cy="12" r="1.1" fill="currentColor"/></symbol>
+    <symbol id="i-users" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 19.5c.6-3.2 3-5 6-5s5.4 1.8 6 5M16 5a3 3 0 0 1 0 6M17.5 14.6c2 .5 3.2 2.1 3.5 4.9" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 7v5l3.2 2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-link" viewBox="0 0 24 24"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1 1M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1-1" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-warn" viewBox="0 0 24 24"><path d="M12 3.5 2.5 20h19L12 3.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M12 10v4.5M12 17v.3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+    <symbol id="i-mega" viewBox="0 0 24 24"><path d="M3.5 10v4c0 .6.4 1 1 1H7l7 4.5V5L7 9.5H4.5c-.6 0-1 .4-1 .5zM17.5 9a4 4 0 0 1 0 6M7 15l1.5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  </svg>
+
+  <header class="site-header">
+    <div class="container">
+      <a class="logo" href="./" aria-label="OposicionesESP, ir al inicio">
+        <img src="img/logo.svg" alt="" width="36" height="36">
+        <span>Oposiciones<b>ESP</b></span>
+      </a>
+      <nav class="nav" aria-label="Principal">
+        <ul>
+          <li><a href="#como-funciona">Cómo funciona</a></li>
+          <li><a href="#que-incluye">Qué incluye</a></li>
+          <li><a href="#planes">Planes</a></li>
+          <li><a href="#faq">Preguntas</a></li>
+        </ul>
+      </nav>
+      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESP_bot">Abrir en Telegram</a>
+    </div>
+  </header>
+
+  <main id="contenido">
+    <!-- ===== HERO ===== -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="container hero__grid">
+        <div>
+          <h1 id="hero-title">Que no se te escape ninguna oposición</h1>
+          <p class="hero__lead">Un bot de Telegram gratuito que revisa el BOE por ti y te avisa cada mañana de las convocatorias nuevas que encajan con tu perfil.</p>
+          <div class="hero__actions">
+            <a class="btn btn--primary btn--lg" data-link="bot" href="https://t.me/OposicionesESP_bot">
+              <svg aria-hidden="true"><use href="#i-send"/></svg>
+              Abrir en Telegram
+            </a>
+            <a class="btn btn--outline-light" href="#como-funciona">Cómo funciona</a>
+          </div>
+          <p class="hero__note">
+            <svg aria-hidden="true"><use href="#i-check"/></svg>
+            Gratis, sin registro y sin pedirte nombre, teléfono ni correo.
+          </p>
+        </div>
+
+        <div class="hero__art" aria-hidden="true">
+          <div class="mock-alert">
+            <div class="mock-alert__top">
+              <img src="img/logo.svg" alt="" width="40" height="40">
+              <div><strong>OposicionesESP</strong><small>Aviso de las 8:00</small></div>
+            </div>
+            <p class="mock-alert__title">Nueva convocatoria: Técnico Superior de Sistemas</p>
+            <dl>
+              <dt>Categoría</dt><dd>TIC</dd>
+              <dt>Provincia</dt><dd>Madrid</dd>
+              <dt>Plazas</dt><dd>12 · acceso libre</dd>
+              <dt>Plazo</dt><dd>20 días hábiles</dd>
+            </dl>
+            <p class="mock-alert__link">Ver en el BOE »</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== CÓMO FUNCIONA ===== -->
+    <section class="section section--alt" id="como-funciona" aria-labelledby="como-title">
+      <div class="container">
+        <div class="section__head">
+          <span class="eyebrow">Cómo funciona</span>
+          <h2 id="como-title">Tres pasos y listo</h2>
+          <p>Lo configuras en un minuto y te olvidas: los avisos llegan solos.</p>
+        </div>
+        <ol class="steps">
+          <li class="step">
+            <span class="step__num" aria-hidden="true">1</span>
+            <h3>Abre el bot</h3>
+            <p>Pulsa «Abrir en Telegram» y luego «Iniciar». No hace falta registrarse.</p>
+          </li>
+          <li class="step">
+            <span class="step__num" aria-hidden="true">2</span>
+            <h3>Elige qué te interesa</h3>
+            <p>Escoge categoría, provincia y titulación. Puedes crear varias alertas.</p>
+          </li>
+          <li class="step">
+            <span class="step__num" aria-hidden="true">3</span>
+            <h3>Recibe avisos cada mañana</h3>
+            <p>Cuando el BOE publica algo que encaja contigo, te llega un mensaje con lo importante.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ===== QUÉ INCLUYE ===== -->
+    <section class="section" id="que-incluye" aria-labelledby="incluye-title">
+      <div class="container">
+        <div class="section__head">
+          <span class="eyebrow">Qué incluye</span>
+          <h2 id="incluye-title">Solo lo que te importa, sin ruido</h2>
+          <p>Filtros pensados para quien prepara oposiciones y no quiere leer el BOE entero cada día.</p>
+        </div>
+        <div class="features">
+          <article class="feature">
+            <div class="feature__icon"><svg aria-hidden="true"><use href="#i-tag"/></svg></div>
+            <h3>Filtro por categorías</h3>
+            <p>Elige los sectores que te interesan.</p>
+            <ul class="tags" aria-label="Algunas categorías">
+              <li>TIC</li><li>Sanidad</li><li>Educación</li><li>Policía</li><li>Fuerzas Armadas</li><li>Justicia</li><li>Administración</li>
+            </ul>
+          </article>
+          <article class="feature">
+            <div class="feature__icon"><svg aria-hidden="true"><use href="#i-pin"/></svg></div>
+            <h3>Por provincia</h3>
+            <p>Recibe solo las plazas de tu provincia, de varias, o de ámbito estatal.</p>
+          </article>
+          <article class="feature">
+            <div class="feature__icon"><svg aria-hidden="true"><use href="#i-cap"/></svg></div>
+            <h3>Por titulación</h3>
+            <p>ESO, Bachillerato, FP, Grado, Máster… Solo verás convocatorias a las que puedes optar.</p>
+          </article>
+          <article class="feature">
+            <div class="feature__icon"><svg aria-hidden="true"><use href="#i-door"/></svg></div>
+            <h3>Solo acceso libre</h3>
+            <p>Si quieres, descarta la promoción interna y quédate solo con el turno libre.</p>
+          </article>
+          <article class="feature">
+            <div class="feature__icon"><svg aria-hidden="true"><use href="#i-clock"/></svg></div>
+            <h3>Plazas y plazo</h3>
+            <p>Cada aviso indica el número de plazas y el plazo de presentación de solicitudes.</p>
+          </article>
+          <article class="feature">
+            <div class="feature__icon"><svg aria-hidden="true"><use href="#i-link"/></svg></div>
+            <h3>Enlace al BOE</h3>
+            <p>Acceso directo al anuncio oficial para que consultes siempre las bases completas.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== CAPTURAS ===== -->
+    <section class="section section--alt" id="capturas" aria-labelledby="capturas-title">
+      <div class="container">
+        <div class="section__head">
+          <span class="eyebrow">Así se ve</span>
+          <h2 id="capturas-title">El bot por dentro</h2>
+        </div>
+        <div class="shots">
+          <figure class="shot">
+            <img src="img/captura1.png" width="600" height="1200" loading="lazy" alt="Captura del bot: mensaje de bienvenida con el botón para crear una alerta">
+            <figcaption>Bienvenida y primera alerta</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="img/captura2.png" width="600" height="1200" loading="lazy" alt="Captura del bot: selección de categoría, provincia y titulación">
+            <figcaption>Eliges tus filtros con botones</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="img/captura3.png" width="600" height="1200" loading="lazy" alt="Captura del bot: aviso diario con una convocatoria, número de plazas, plazo y enlace al BOE">
+            <figcaption>El aviso que recibes cada mañana</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== PLANES ===== -->
+    <section class="section" id="planes" aria-labelledby="planes-title">
+      <div class="container">
+        <div class="section__head">
+          <span class="eyebrow">Planes</span>
+          <h2 id="planes-title">Empieza gratis</h2>
+          <p>El plan gratuito cubre lo que necesita la mayoría de opositores.</p>
+        </div>
+        <div class="plans">
+          <article class="plan plan--featured" aria-labelledby="plan-gratis">
+            <span class="plan__badge">Disponible</span>
+            <h3 id="plan-gratis">Gratis</h3>
+            <p class="plan__price">0 € <small>para siempre</small></p>
+            <ul>
+              <li><svg aria-hidden="true"><use href="#i-check"/></svg>Hasta 3 alertas personalizadas</li>
+              <li><svg aria-hidden="true"><use href="#i-check"/></svg>Filtros por categoría, provincia y titulación</li>
+              <li><svg aria-hidden="true"><use href="#i-check"/></svg>Aviso diario con las novedades del BOE</li>
+              <li><svg aria-hidden="true"><use href="#i-check"/></svg>Enlace directo al anuncio oficial</li>
+            </ul>
+            <a class="btn btn--primary" data-link="bot" href="https://t.me/OposicionesESP_bot">Empezar gratis</a>
+          </article>
+          <article class="plan" aria-labelledby="plan-premium">
+            <span class="plan__badge plan__badge--muted">Próximamente</span>
+            <h3 id="plan-premium">Premium</h3>
+            <p class="plan__price">— <small>precio por definir</small></p>
+            <ul>
+              <li><svg aria-hidden="true"><use href="#i-check"/></svg>Más alertas</li>
+              <li><svg aria-hidden="true"><use href="#i-check"/></svg>Más boletines (autonómicos y provinciales)</li>
+              <li><svg aria-hidden="true"><use href="#i-check"/></svg>Todo lo del plan gratuito</li>
+            </ul>
+            <span class="btn" aria-disabled="true">Próximamente</span>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FAQ ===== -->
+    <section class="section section--alt" id="faq" aria-labelledby="faq-title">
+      <div class="container">
+        <div class="section__head">
+          <span class="eyebrow">Preguntas frecuentes</span>
+          <h2 id="faq-title">Dudas habituales</h2>
+        </div>
+        <div class="faq">
+          <details>
+            <summary>¿Es gratis?</summary>
+            <div class="faq__body"><p>Sí. El plan gratuito permite hasta 3 alertas sin coste y sin fecha de caducidad. En el futuro habrá un plan Premium opcional con más alertas y más boletines, pero el gratuito seguirá existiendo.</p></div>
+          </details>
+          <details>
+            <summary>¿De dónde salen los datos?</summary>
+            <div class="faq__body"><p>De los <strong>datos abiertos del Boletín Oficial del Estado (BOE)</strong>, que se publican de forma pública cada día. El bot los lee, los clasifica y te envía solo lo que encaja con tus filtros.</p></div>
+          </details>
+          <details>
+            <summary>¿Es un servicio oficial?</summary>
+            <div class="faq__body"><p><strong>No.</strong> OposicionesESP es un proyecto independiente y no está afiliado al BOE ni a ninguna administración pública. La información es orientativa: comprueba siempre las bases oficiales antes de presentarte.</p></div>
+          </details>
+          <details>
+            <summary>¿Cómo me doy de baja?</summary>
+            <div class="faq__body"><p>Puedes borrar tus alertas desde el propio bot, o simplemente bloquearlo o eliminar el chat en Telegram. Si además quieres que borremos todos tus datos, envía el comando <code>/borrardatos</code> o escríbenos a <a data-link="email" href="mailto:contacto@ejemplo.com"><span data-config="EMAIL_CONTACTO">contacto@ejemplo.com</span></a>.</p></div>
+          </details>
+          <details>
+            <summary>¿Qué datos guardáis?</summary>
+            <div class="faq__body"><p>Lo mínimo para que funcione: tu identificador de chat de Telegram, las alertas que configuras y el registro de avisos enviados (para no repetirlos). No pedimos nombre, teléfono ni correo. Más detalles en la <a href="privacidad.html">política de privacidad</a>.</p></div>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== CANAL ===== -->
+    <section class="section" aria-labelledby="canal-title">
+      <div class="container">
+        <div class="channel">
+          <div>
+            <h2 id="canal-title">Síguenos también en el canal</h2>
+            <p>Novedades del bot, convocatorias destacadas y avisos importantes en <span data-config="CANAL_USERNAME">@OposicionesESP</span>.</p>
+          </div>
+          <a class="btn btn--outline-light" data-link="canal" href="https://t.me/OposicionesESP">
+            <svg aria-hidden="true"><use href="#i-mega"/></svg>
+            Ir al canal de Telegram
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="disclaimer" role="note">
+        <svg aria-hidden="true"><use href="#i-warn"/></svg>
+        <p><strong>OposicionesESP es un proyecto independiente, no está afiliado al BOE ni a ninguna administración pública.</strong> Comprueba siempre las bases oficiales antes de presentarte.</p>
+      </div>
+      <div class="footer__grid">
+        <a class="logo" href="./" aria-label="OposicionesESP, ir al inicio">
+          <img src="img/logo.svg" alt="" width="36" height="36">
+          <span>Oposiciones<b>ESP</b></span>
+        </a>
+        <ul class="footer__links">
+          <li><a href="privacidad.html">Privacidad</a></li>
+          <li><a href="aviso-legal.html">Aviso legal</a></li>
+          <li><a data-link="canal" href="https://t.me/OposicionesESP">Canal de Telegram</a></li>
+          <li><a data-link="email" href="mailto:contacto@ejemplo.com">Contacto</a></li>
+        </ul>
+      </div>
+      <p class="footer__bottom">© <span data-year>2026</span> OposicionesESP · Datos obtenidos de los datos abiertos del BOE.</p>
+    </div>
+  </footer>
+
+  <div class="mobile-cta">
+    <a class="btn btn--primary btn--lg" data-link="bot" href="https://t.me/OposicionesESP_bot">
+      <svg aria-hidden="true"><use href="#i-send"/></svg>
+      Abrir en Telegram
+    </a>
+  </div>
+</body>
+</html>

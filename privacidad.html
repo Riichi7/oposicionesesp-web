@@ -1,0 +1,128 @@
+<!doctype html>
+<!--
+  CONFIGURACIÓN: el responsable y el correo se leen de /config.js
+  (NOMBRE_RESPONSABLE, NIF_RESPONSABLE, DOMICILIO_RESPONSABLE, EMAIL_CONTACTO).
+  Cambia también la fecha de "Última actualización" si modificas el texto.
+-->
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Política de privacidad · OposicionesESP</title>
+  <meta name="description" content="Qué datos trata el bot de Telegram OposicionesESP, para qué, durante cuánto tiempo y cómo ejercer tus derechos o borrar tus datos.">
+  <meta name="theme-color" content="#0B2F6B">
+  <link rel="canonical" href="https://tu-usuario.github.io/oposicionesesp-web/privacidad.html">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_ES">
+  <meta property="og:site_name" content="OposicionesESP">
+  <meta property="og:title" content="Política de privacidad · OposicionesESP">
+  <meta property="og:description" content="Qué datos tratamos, para qué y cómo borrarlos.">
+  <meta property="og:url" content="https://tu-usuario.github.io/oposicionesesp-web/privacidad.html">
+  <meta property="og:image" content="https://tu-usuario.github.io/oposicionesesp-web/img/og-image.png">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+  <link rel="preload" href="fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="config.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+  <header class="site-header">
+    <div class="container">
+      <a class="logo" href="./" aria-label="OposicionesESP, ir al inicio">
+        <img src="img/logo.svg" alt="" width="36" height="36">
+        <span>Oposiciones<b>ESP</b></span>
+      </a>
+      <a class="btn btn--primary header-cta" data-link="bot" href="https://t.me/OposicionesESP_bot">Abrir<span class="hide-xs">&nbsp;en Telegram</span><span class="sr-only show-xs"> el bot en Telegram</span></a>
+    </div>
+  </header>
+
+  <main id="contenido" class="legal">
+    <div class="container">
+      <h1>Política de privacidad</h1>
+      <p class="updated">Última actualización: 22 de noviembre de 2026</p>
+
+      <div class="box">
+        <p><strong>En resumen:</strong> solo guardamos tu identificador de chat de Telegram, las alertas que configuras y los avisos que te hemos enviado. No te pedimos nombre, teléfono ni correo. No vendemos ni cedemos tus datos. Puedes borrarlo todo cuando quieras con <code>/borrardatos</code>.</p>
+      </div>
+
+      <h2>1. Responsable del tratamiento</h2>
+      <ul>
+        <li><strong>Responsable:</strong> <span data-config="NOMBRE_RESPONSABLE">Nombre Apellido Ejemplo</span></li>
+        <li><strong>NIF:</strong> <span data-config="NIF_RESPONSABLE">00000000X</span></li>
+        <li><strong>Domicilio:</strong> <span data-config="DOMICILIO_RESPONSABLE">Calle Ejemplo 1, 28000 Madrid (España)</span></li>
+        <li><strong>Correo de contacto:</strong> <a data-link="email" href="mailto:contacto@ejemplo.com"><span data-config="EMAIL_CONTACTO">contacto@ejemplo.com</span></a></li>
+      </ul>
+
+      <h2>2. Qué datos tratamos</h2>
+      <p>Cuando usas el bot de Telegram tratamos únicamente:</p>
+      <ul>
+        <li><strong>Identificador de chat de Telegram</strong>: un número que Telegram asigna a tu conversación con el bot. Lo necesitamos para poder enviarte los avisos.</li>
+        <li><strong>Alertas configuradas</strong>: las categorías, provincias, titulación y demás filtros que eliges.</li>
+        <li><strong>Avisos enviados</strong>: qué convocatorias te hemos mandado y cuándo, para no repetirlas.</li>
+      </ul>
+      <p><strong>No pedimos ni guardamos</strong> tu nombre, número de teléfono ni correo electrónico. Telegram puede mostrarnos tu nombre de perfil o tu alias al escribir al bot, pero no los almacenamos.</p>
+      <p>Esta web no usa cookies, ni herramientas de analítica, ni carga recursos de terceros (la tipografía está alojada en la propia web).</p>
+
+      <h2>3. Para qué los usamos</h2>
+      <p>Exclusivamente para prestarte el servicio: guardar tus alertas, buscar en los datos abiertos del BOE las convocatorias que encajan con ellas y enviarte los avisos por Telegram. No hacemos perfiles comerciales ni enviamos publicidad.</p>
+
+      <h2>4. Base legal</h2>
+      <p>El tratamiento se basa en tu <strong>consentimiento</strong> y en la <strong>prestación del servicio que solicitas</strong> al iniciar el bot y crear alertas (artículo 6.1.a y 6.1.b del Reglamento General de Protección de Datos, RGPD). Puedes retirar tu consentimiento en cualquier momento borrando tus datos.</p>
+
+      <h2>5. Cuánto tiempo los conservamos</h2>
+      <ul>
+        <li>Mientras tengas alertas activas y uses el bot.</li>
+        <li>Si usas <code>/borrardatos</code> o nos lo pides por correo, los eliminamos de inmediato (como máximo en 30 días).</li>
+        <li>Si bloqueas el bot o Telegram nos indica que ya no se pueden entregar mensajes, eliminamos tus datos en un plazo máximo de 30 días.</li>
+        <li>El registro de avisos enviados se conserva como máximo 12 meses y después se borra automáticamente.</li>
+      </ul>
+
+      <h2>6. A quién se comunican</h2>
+      <p><strong>No cedemos tus datos a terceros</strong>, salvo obligación legal. El servicio funciona a través de <strong>Telegram</strong>, que actúa como plataforma de mensajería: los mensajes entre tú y el bot pasan por sus servidores y se rigen también por la <a href="https://telegram.org/privacy" rel="noopener">política de privacidad de Telegram</a>.</p>
+      <p>Los datos se alojan en servidores del proveedor de infraestructura del bot, que solo los trata por cuenta del responsable y siguiendo sus instrucciones.</p>
+
+      <h2>7. Tus derechos</h2>
+      <p>Puedes ejercer en cualquier momento tus derechos de:</p>
+      <ul>
+        <li><strong>Acceso</strong>: saber qué datos tuyos tenemos.</li>
+        <li><strong>Rectificación</strong>: corregirlos (puedes editar tus alertas desde el propio bot).</li>
+        <li><strong>Supresión</strong>: pedir que los borremos.</li>
+        <li><strong>Oposición</strong> y <strong>limitación</strong> del tratamiento.</li>
+        <li><strong>Portabilidad</strong>: recibirlos en un formato estructurado.</li>
+        <li><strong>Retirar el consentimiento</strong> sin que afecte a lo tratado antes.</li>
+      </ul>
+
+      <h2>8. Cómo borrar tus datos</h2>
+      <div class="box">
+        <p><strong>Opción rápida:</strong> escribe <code>/borrardatos</code> en el bot. Se eliminarán tu identificador de chat, todas tus alertas y el historial de avisos.</p>
+        <p style="margin:0"><strong>Por correo:</strong> escribe a <a data-link="email" href="mailto:contacto@ejemplo.com"><span data-config="EMAIL_CONTACTO">contacto@ejemplo.com</span></a> indicando tu alias de Telegram o enviándonos el mensaje que te devuelve el comando <code>/start</code>, para poder identificar tu chat. Te responderemos en un plazo máximo de un mes.</p>
+      </div>
+
+      <h2>9. Reclamaciones</h2>
+      <p>Si consideras que no hemos tratado bien tus datos, puedes presentar una reclamación ante la <strong>Agencia Española de Protección de Datos (AEPD)</strong> en <a href="https://www.aepd.es" rel="noopener">www.aepd.es</a>. Te agradeceremos que antes nos escribas para intentar solucionarlo.</p>
+
+      <h2>10. Cambios en esta política</h2>
+      <p>Si cambiamos algo importante, lo indicaremos en esta página y, si afecta a cómo usamos tus datos, te avisaremos a través del bot.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="disclaimer" role="note">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.5 2.5 20h19L12 3.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M12 10v4.5M12 17v.3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <p><strong>OposicionesESP es un proyecto independiente, no está afiliado al BOE ni a ninguna administración pública.</strong> Comprueba siempre las bases oficiales antes de presentarte.</p>
+      </div>
+      <ul class="footer__links">
+        <li><a href="./">Inicio</a></li>
+        <li><a href="privacidad.html" aria-current="page">Privacidad</a></li>
+        <li><a href="aviso-legal.html">Aviso legal</a></li>
+        <li><a data-link="email" href="mailto:contacto@ejemplo.com">Contacto</a></li>
+      </ul>
+      <p class="footer__bottom">© <span data-year>2026</span> OposicionesESP</p>
+    </div>
+  </footer>
+</body>
+</html>
