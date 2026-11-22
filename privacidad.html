@@ -45,7 +45,7 @@
       <p class="updated">Última actualización: 22 de noviembre de 2026</p>
 
       <div class="box">
-        <p><strong>En resumen:</strong> solo guardamos tu identificador de chat de Telegram, las alertas que configuras y los avisos que te hemos enviado. No te pedimos nombre, teléfono ni correo. No vendemos ni cedemos tus datos. Puedes borrarlo todo cuando quieras con <code>/borrardatos</code>.</p>
+        <p><strong>En resumen:</strong> solo guardamos tu identificador de chat de Telegram, las alertas que configuras y los avisos que te hemos enviado, con sus fechas. No te pedimos nombre, teléfono ni correo. No vendemos ni cedemos tus datos. Puedes borrarlo todo cuando quieras con <code>/borrardatos</code>.</p>
       </div>
 
       <h2>1. Responsable del tratamiento</h2>
@@ -59,8 +59,8 @@
       <h2>2. Qué datos tratamos</h2>
       <p>Cuando usas el bot de Telegram tratamos únicamente:</p>
       <ul>
-        <li><strong>Identificador de chat de Telegram</strong>: un número que Telegram asigna a tu conversación con el bot. Lo necesitamos para poder enviarte los avisos.</li>
-        <li><strong>Alertas configuradas</strong>: las categorías, provincias, titulación y demás filtros que eliges.</li>
+        <li><strong>Identificador de chat de Telegram</strong>: un número que Telegram asigna a tu conversación con el bot, y la fecha en que empezaste a usarlo. Lo necesitamos para poder enviarte los avisos.</li>
+        <li><strong>Alertas configuradas</strong>: la categoría o palabras clave, la provincia, la titulación y demás filtros que eliges, y las fechas en que creas alertas (para aplicar el límite mensual del plan gratuito).</li>
         <li><strong>Avisos enviados</strong>: qué convocatorias te hemos mandado y cuándo, para no repetirlas.</li>
       </ul>
       <p><strong>No pedimos ni guardamos</strong> tu nombre, número de teléfono ni correo electrónico. Telegram puede mostrarnos tu nombre de perfil o tu alias al escribir al bot, pero no los almacenamos.</p>
@@ -75,9 +75,9 @@
       <h2>5. Cuánto tiempo los conservamos</h2>
       <ul>
         <li>Mientras tengas alertas activas y uses el bot.</li>
-        <li>Si usas <code>/borrardatos</code> o nos lo pides por correo, los eliminamos de inmediato (como máximo en 30 días).</li>
-        <li>Si bloqueas el bot o Telegram nos indica que ya no se pueden entregar mensajes, eliminamos tus datos en un plazo máximo de 30 días.</li>
-        <li>El registro de avisos enviados se conserva como máximo 12 meses y después se borra automáticamente.</li>
+        <li>Si usas <code>/borrardatos</code>, se eliminan en el momento. Si nos lo pides por correo, los eliminamos como máximo en 30 días.</li>
+        <li>Si bloqueas el bot, tus datos se eliminan automáticamente la próxima vez que el bot intente enviarte un mensaje y Telegram indique que no se puede entregar. Si quieres que se borren ya, usa <code>/borrardatos</code> antes de bloquearlo.</li>
+        <li>El registro de avisos enviados se conserva mientras exista tu usuario y se borra junto con él.</li>
       </ul>
 
       <h2>6. A quién se comunican</h2>
@@ -88,7 +88,7 @@
       <p>Puedes ejercer en cualquier momento tus derechos de:</p>
       <ul>
         <li><strong>Acceso</strong>: saber qué datos tuyos tenemos.</li>
-        <li><strong>Rectificación</strong>: corregirlos (puedes editar tus alertas desde el propio bot).</li>
+        <li><strong>Rectificación</strong>: corregirlos (puedes borrar una alerta con <code>/borrar</code> y crear otra desde el propio bot).</li>
         <li><strong>Supresión</strong>: pedir que los borremos.</li>
         <li><strong>Oposición</strong> y <strong>limitación</strong> del tratamiento.</li>
         <li><strong>Portabilidad</strong>: recibirlos en un formato estructurado.</li>
@@ -98,7 +98,7 @@
       <h2>8. Cómo borrar tus datos</h2>
       <div class="box">
         <p><strong>Opción rápida:</strong> escribe <code>/borrardatos</code> en el bot. Se eliminarán tu identificador de chat, todas tus alertas y el historial de avisos.</p>
-        <p style="margin:0"><strong>Por correo:</strong> escribe a <a data-link="email" href="mailto:contacto@ejemplo.com"><span data-config="EMAIL_CONTACTO">contacto@ejemplo.com</span></a> indicando tu alias de Telegram o enviándonos el mensaje que te devuelve el comando <code>/start</code>, para poder identificar tu chat. Te responderemos en un plazo máximo de un mes.</p>
+        <p style="margin:0"><strong>Por correo:</strong> escribe a <a data-link="email" href="mailto:contacto@ejemplo.com"><span data-config="EMAIL_CONTACTO">contacto@ejemplo.com</span></a> indicando tu alias de Telegram o enviándonos el número que te devuelve el comando <code>/miid</code>, para poder identificar tu chat. Te responderemos en un plazo máximo de un mes.</p>
       </div>
 
       <h2>9. Reclamaciones</h2>
