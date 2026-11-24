@@ -16,7 +16,7 @@ window.OPOSICIONES_CONFIG = {
   // al dominio propio (https://oposicionesesp.es). Después ejecuta:
   //   python3 scripts/seo.py
   // para regenerar canonical, Open Graph, Twitter, sitemap.xml y robots.txt.
-  SITE_URL: "https://riichi7.github.io/oposicionesesp-web",
+  SITE_URL: "https://oposicionesesp.es",
 
   // Nombre de usuario del bot, sin la @ (https://t.me/BOT_USERNAME)
   BOT_USERNAME: "OposicionesESPbot",

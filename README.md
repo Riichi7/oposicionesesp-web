@@ -58,9 +58,9 @@ en `config.js`; la sección del canal, los enlaces y el correo aparecen solos y 
 ### URL pública (SEO y Open Graph)
 
 La URL de la web está en **un solo sitio**: `SITE_URL` en `config.js`
-(ahora `https://riichi7.github.io/oposicionesesp-web`). Para pasar al dominio propio:
+(ahora `https://oposicionesesp.es`). Para cambiarla:
 
-1. Cambia `SITE_URL` a `"https://oposicionesesp.es"` (sin barra final).
+1. Cambia `SITE_URL` en `config.js` (sin barra final).
 2. Ejecuta `python3 scripts/seo.py` (no necesita dependencias).
 
 El script reescribe en cada página el bloque entre `<!-- SEO:inicio -->` y `<!-- SEO:fin -->`

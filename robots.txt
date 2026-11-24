@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://riichi7.github.io/oposicionesesp-web/sitemap.xml
+Sitemap: https://oposicionesesp.es/sitemap.xml
