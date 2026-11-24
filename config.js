@@ -23,7 +23,7 @@ window.OPOSICIONES_CONFIG = {
 
   // Nombre de usuario del canal de Telegram, sin la @ (https://t.me/CANAL_USERNAME)
   // Vacío = canal oculto.
-  CANAL_USERNAME: "",
+  CANAL_USERNAME: "oposicionesesp",
 
   // Correo de contacto (privacidad, aviso legal, bajas...)
   // Vacío = «próximamente».

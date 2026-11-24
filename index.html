@@ -303,14 +303,14 @@
     </section>
 
     <!-- ===== CANAL ===== -->
-    <section class="section" aria-labelledby="canal-title" data-if="CANAL_USERNAME" hidden>
+    <section class="section" aria-labelledby="canal-title" data-if="CANAL_USERNAME">
       <div class="container">
         <div class="channel">
           <div>
             <h2 id="canal-title">Síguenos también en el canal</h2>
-            <p>Novedades del bot, convocatorias destacadas y avisos importantes en <span data-config="CANAL_USERNAME"></span>.</p>
+            <p>Cada mañana, todas las oposiciones nuevas del BOE agrupadas por categoría en <span data-config="CANAL_USERNAME">@oposicionesesp</span>.</p>
           </div>
-          <a class="btn btn--outline-light" data-link="canal" href="#">
+          <a class="btn btn--outline-light" data-link="canal" href="https://t.me/oposicionesesp">
             <svg aria-hidden="true"><use href="#i-mega"/></svg>
             Ir al canal de Telegram
           </a>
@@ -336,7 +336,7 @@
           <li><a href="aviso-legal.html">Aviso legal</a></li>
           <li><a href="calculadora-plazos.html">Calculadora de plazos</a></li>
           <li><a href="guia-titulacion.html">Guía de titulación</a></li>
-          <li data-if="CANAL_USERNAME" hidden><a data-link="canal" href="#">Canal de Telegram</a></li>
+          <li data-if="CANAL_USERNAME"><a data-link="canal" href="https://t.me/oposicionesesp">Canal de Telegram</a></li>
           <li data-if="EMAIL_CONTACTO" hidden><a data-link="email" href="#">Contacto</a></li>
           <li data-unless="EMAIL_CONTACTO">Contacto: próximamente</li>
         </ul>

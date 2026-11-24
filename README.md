@@ -38,7 +38,7 @@ Abre **`config.js`** y cambia los valores:
 
 ```js
 BOT_USERNAME: "OposicionesESPbot",      // sin @  → https://t.me/OposicionesESPbot
-CANAL_USERNAME: "",                     // sin @; vacío = canal oculto
+CANAL_USERNAME: "oposicionesesp",       // sin @; vacío = canal oculto
 EMAIL_CONTACTO: "",                     // vacío = el contacto aparece como «próximamente»
 NOMBRE_RESPONSABLE: "Ricardo Villaitodo",
 NIF_RESPONSABLE: "",                    // vacío = no se muestra esa línea
@@ -76,8 +76,11 @@ El sitemap incluye también `/convocatorias/` y las páginas de convocatorias qu
 Las genera y sube el bot de Telegram cada mañana (commit «Convocatorias del BOE dd/mm/aaaa…»), con
 rutas absolutas (`/css/styles.css`), así que necesitan la web en la raíz del dominio. Su aspecto se
 cambia en `web.py` del bot (plantillas) y en la sección «Convocatorias» de `css/styles.css`. El botón
-«Recibe alertas gratis en Telegram» enlaza siempre al canal t.me/oposicionesesp, aunque
-`CANAL_USERNAME` esté vacío en `config.js`.
+«Recibe alertas gratis en Telegram» enlaza siempre al canal t.me/oposicionesesp.
+
+El canal está activado (`CANAL_USERNAME: "oposicionesesp"`) y sus enlaces y la sección de
+`index.html` están escritos también en el HTML (sin `hidden`), así que se ven sin JavaScript. Si
+cambia el canal, cambia `config.js` y esos `href`.
 Las etiquetas tienen que estar escritas en el HTML (no generadas con JavaScript) porque WhatsApp, Telegram,
 X o Google no ejecutan JavaScript al leerlas.
 
