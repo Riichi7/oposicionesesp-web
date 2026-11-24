@@ -125,7 +125,7 @@ p { margin: 0 0 1em; }
 .logo span b { color: var(--dorado); font-weight: 800; }
 /* Navegación: en móvil/tablet se abre con el botón «Menú»; en escritorio, en línea */
 .nav { display: none; }
-.nav ul { list-style: none; display: flex; gap: 1.25rem; margin: 0; padding: 0; }
+.nav ul { list-style: none; display: flex; gap: 1rem; margin: 0; padding: 0; }
 .nav a { color: var(--blanco); text-decoration: none; font-weight: 500; font-size: .96rem; white-space: nowrap; }
 .nav a:hover, .nav a[aria-current="page"] { text-decoration: underline; color: var(--blanco); }
 .nav-toggle {
@@ -159,7 +159,7 @@ p { margin: 0 0 1em; }
 }
 @media (min-width: 1120px) {
   .nav, .nav.is-open { display: block; position: static; box-shadow: none; border: 0; }
-  .nav.is-open ul { flex-direction: row; gap: 1.25rem; padding: 0; }
+  .nav.is-open ul { flex-direction: row; gap: 1rem; padding: 0; }
   .nav.is-open a { display: inline; padding: 0; font-size: .96rem; border: 0; }
   .nav-toggle { display: none; }
 }
@@ -487,3 +487,37 @@ code {
 .filtros__abiertas { display: inline-flex; gap: .5rem; align-items: center; margin-top: 1rem; font-weight: 600; cursor: pointer; }
 .filtros__abiertas input { width: 20px; height: 20px; accent-color: var(--azul); }
 .filtros__estado { color: var(--texto-2); font-size: .95rem; margin: .75rem 0 0; }
+
+/* Últimas convocatorias en el inicio (el bot rellena la lista) */
+.conv-grid { list-style: none; padding: 0; margin: 0; display: grid; gap: 1rem; }
+@media (min-width: 640px) { .conv-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 980px) { .conv-grid { grid-template-columns: repeat(3, 1fr); } }
+.conv-card {
+  position: relative; display: flex; flex-direction: column; gap: .35rem;
+  padding: 1.25rem; border: 1px solid var(--borde); border-radius: var(--radio-lg); background: var(--blanco);
+  transition: border-color .15s ease, box-shadow .15s ease;
+}
+.conv-card:hover { border-color: var(--azul); box-shadow: 0 6px 18px rgba(11,47,107,.1); }
+.conv-card h3 { font-size: 1.08rem; margin: 0; overflow-wrap: anywhere; }
+.conv-card h3 a { text-decoration: none; }
+/* Toda la tarjeta es clicable (enlace «estirado»): más fácil de tocar en el móvil */
+.conv-card h3 a::after { content: ""; position: absolute; inset: 0; border-radius: inherit; }
+.conv-card h3 a:focus-visible { outline: none; }
+.conv-card:focus-within { outline: 3px solid var(--azul); outline-offset: 3px; }
+.conv-card__org { margin: 0; color: var(--texto-2); font-size: .95rem; }
+.conv-card__plazas { margin: 0; font-weight: 600; font-size: .95rem; }
+.conv-card__plazo { margin: auto 0 0; padding-top: .4rem; }
+.conv-card .badge { white-space: normal; }
+.conv-actualizado { text-align: center; color: var(--texto-2); font-size: .92rem; margin: 1rem 0 0; }
+.section__cta { text-align: center; margin: 1.75rem 0 0; }
+@media (max-width: 479px) { .section__cta .btn { width: 100%; } }
+
+/* Móvil: palabras largas («Administrativo/Administrativa») y elementos anchos */
+.page h1, .page h2, .conv-item__titulo, .conv-card h3, .breadcrumb li { overflow-wrap: break-word; hyphens: auto; }
+@media (max-width: 479px) {
+  .convocatoria h1, .convocatorias h1 { font-size: 1.7rem; }
+  .badge { white-space: normal; border-radius: var(--radio-sm); }
+  .cta-telegram, .cta-box { padding: 1.25rem; }
+  .cta-telegram .btn--lg, .cta-box .btn--lg, .section__cta .btn--lg { font-size: 1.05rem; padding: .85rem 1rem; }
+  .chip { font-size: .88rem; padding: .3rem .75rem; }
+}

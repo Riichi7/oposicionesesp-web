@@ -73,6 +73,17 @@ El sitemap incluye también `/convocatorias/` y las páginas de convocatorias qu
 
 ### Páginas de convocatorias
 
+**«Últimas convocatorias» en el inicio:** en `index.html`, lo que hay entre
+`<!-- CONVOCATORIAS:inicio -->` y `<!-- CONVOCATORIAS:fin -->` (las 6 más recientes: título,
+organismo, plazas y plazo) lo reescribe el bot cada vez que genera las páginas. No lo edites a mano
+ni borres las marcas; el título de la sección y el botón «Ver todas las convocatorias» están fuera
+y sí se pueden cambiar. Si `index.html` tiene cambios sin commit, el bot actualiza el bloque en el
+disco pero no lo sube (para no mezclar tus cambios con su commit).
+
+**Menú:** «Qué incluye» se quitó del menú para que cupiera «Convocatorias» en escritorio (la sección
+sigue en el inicio). El menú de escritorio mide ~1046 px de 1080 disponibles: si añades otro
+elemento, quita uno o el menú se saldrá de la cabecera.
+
 Las genera y sube el bot de Telegram cada mañana (commit «Convocatorias del BOE dd/mm/aaaa…»), con
 rutas absolutas (`/css/styles.css`), así que necesitan la web en la raíz del dominio. Su aspecto se
 cambia en `web.py` del bot (plantillas) y en la sección «Convocatorias» de `css/styles.css`. El botón

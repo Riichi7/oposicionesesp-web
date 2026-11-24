@@ -156,6 +156,14 @@ def convocatorias() -> list[tuple]:
     return entradas
 
 
+def inicio_lastmod() -> str:
+    """Fecha en que el bot cambió por última vez «Últimas convocatorias» del inicio."""
+    ruta = RAIZ / "convocatorias" / "paginas.json"
+    if not ruta.exists():
+        return ""
+    return json.loads(ruta.read_text(encoding="utf-8")).get("inicio_lastmod", "")
+
+
 def main():
     base = leer_base()
     for fichero, p in PAGINAS.items():
@@ -168,7 +176,9 @@ def main():
             ruta.write_text(nuevo, encoding="utf-8")
             print(f"actualizado  {fichero}")
 
-    entradas = [(p["ruta"], p["lastmod"], p["frecuencia"], p["prioridad"])
+    inicio = inicio_lastmod()
+    entradas = [(p["ruta"], max(p["lastmod"], inicio) if p["ruta"] == "" else p["lastmod"],
+                 "daily" if p["ruta"] == "" and inicio else p["frecuencia"], p["prioridad"])
                 for p in PAGINAS.values() if not p.get("noindex")]
     entradas += convocatorias()
     urls = "".join(
