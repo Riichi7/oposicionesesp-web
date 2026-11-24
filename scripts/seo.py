@@ -4,7 +4,7 @@ Regenera las etiquetas SEO de todas las páginas a partir de SITE_URL (config.js
 
   - <title>, meta description y canonical
   - Open Graph (og:*) y Twitter (twitter:*)
-  - sitemap.xml y robots.txt
+  - sitemap.xml (con las páginas de convocatorias que genera el bot, convocatorias/paginas.json) y robots.txt
 
 Cada página tiene un bloque entre  <!-- SEO:inicio -->  y  <!-- SEO:fin -->
 que este script reescribe entero: no lo edites a mano, cambia PAGINAS aquí abajo.
@@ -143,6 +143,19 @@ def bloque(base: str, p: dict) -> str:
     return "\n".join("  " + l for l in lineas)
 
 
+def convocatorias() -> list[tuple]:
+    """Páginas de convocatorias que genera el bot (web.py del bot de Telegram):
+    las lee de convocatorias/paginas.json. Sin ese fichero, ninguna."""
+    ruta = RAIZ / "convocatorias" / "paginas.json"
+    if not ruta.exists():
+        return []
+    datos = json.loads(ruta.read_text(encoding="utf-8"))
+    entradas = [("convocatorias/", datos.get("indice_lastmod", ""), "daily", "0.9")]
+    entradas += [(f"convocatorias/{p['slug']}.html", p["lastmod"], "weekly", "0.6")
+                 for p in datos.get("paginas", {}).values()]
+    return entradas
+
+
 def main():
     base = leer_base()
     for fichero, p in PAGINAS.items():
@@ -155,10 +168,13 @@ def main():
             ruta.write_text(nuevo, encoding="utf-8")
             print(f"actualizado  {fichero}")
 
+    entradas = [(p["ruta"], p["lastmod"], p["frecuencia"], p["prioridad"])
+                for p in PAGINAS.values() if not p.get("noindex")]
+    entradas += convocatorias()
     urls = "".join(
-        f"  <url>\n    <loc>{base}/{p['ruta']}</loc>\n    <lastmod>{p['lastmod']}</lastmod>\n"
-        f"    <changefreq>{p['frecuencia']}</changefreq>\n    <priority>{p['prioridad']}</priority>\n  </url>\n"
-        for p in PAGINAS.values() if not p.get("noindex")
+        f"  <url>\n    <loc>{base}/{ruta}</loc>\n    <lastmod>{lastmod}</lastmod>\n"
+        f"    <changefreq>{frecuencia}</changefreq>\n    <priority>{prioridad}</priority>\n  </url>\n"
+        for ruta, lastmod, frecuencia, prioridad in entradas
     )
     (RAIZ / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n'

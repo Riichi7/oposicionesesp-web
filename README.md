@@ -18,6 +18,9 @@ js/festivos.js      Días inhábiles nacionales y autonómicos por año (fuente 
 js/plazos.js        Lógica de la calculadora (navegador y Node)
 js/calculadora.js   Interfaz de la calculadora
 js/guia.js          Selector de la guía de titulación
+js/convocatorias.js Filtro por categoría de /convocatorias/
+convocatorias/      ← GENERADO POR EL BOT (web.py del bot): una página por convocatoria,
+                      index.html y paginas.json (slugs y lastmod para el sitemap). No editar a mano.
 scripts/seo.py      Regenera title, description, canonical, Open Graph, Twitter, sitemap y robots
 scripts/generar_og_image.py  Genera img/og-image.png (1200×630) con Pillow y la fuente Inter
 tests/              Tests de la calculadora (node --test tests/)
@@ -66,6 +69,15 @@ La URL de la web está en **un solo sitio**: `SITE_URL` en `config.js`
 El script reescribe en cada página el bloque entre `<!-- SEO:inicio -->` y `<!-- SEO:fin -->`
 (`<title>`, `description`, `canonical`, `og:*`, `twitter:*`, JSON-LD) y regenera `sitemap.xml` y `robots.txt`.
 Los títulos y descripciones de cada página se cambian en el diccionario `PAGINAS` de ese script, no a mano en el HTML.
+El sitemap incluye también `/convocatorias/` y las páginas de convocatorias que lista `convocatorias/paginas.json`.
+
+### Páginas de convocatorias
+
+Las genera y sube el bot de Telegram cada mañana (commit «Convocatorias del BOE dd/mm/aaaa…»), con
+rutas absolutas (`/css/styles.css`), así que necesitan la web en la raíz del dominio. Su aspecto se
+cambia en `web.py` del bot (plantillas) y en la sección «Convocatorias» de `css/styles.css`. El botón
+«Recibe alertas gratis en Telegram» enlaza siempre al canal t.me/oposicionesesp, aunque
+`CANAL_USERNAME` esté vacío en `config.js`.
 Las etiquetas tienen que estar escritas en el HTML (no generadas con JavaScript) porque WhatsApp, Telegram,
 X o Google no ejecutan JavaScript al leerlas.
 
