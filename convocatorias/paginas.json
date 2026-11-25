@@ -1,65 +1,169 @@
 {
- "indice_lastmod": "2026-11-24",
+ "indice_lastmod": "2026-11-25",
  "paginas": {
+  "BOE-A-2026-24764": {
+   "slug": "auxiliar-administrativo-auxiliar-valle-gran-rey-boe-a-2026-24764",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24763": {
+   "slug": "agente-innovacion-tecnologica-balanegra-boe-a-2026-24763",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24762": {
+   "slug": "agente-policia-local-ciudad-rodrigo-boe-a-2026-24762",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24761": {
+   "slug": "tecnico-gestion-barbastro-boe-a-2026-24761",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24760": {
+   "slug": "personal-tecnico-superior-economia-sant-vicenc-dels-horts-boe-a-2026-24760",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24759": {
+   "slug": "jefe-negociado-recursos-humanos-navalcarnero-boe-a-2026-24759",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24758": {
+   "slug": "capataz-cuevas-valle-boe-a-2026-24758",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24757": {
+   "slug": "veterinario-salud-publica-melilla-boe-a-2026-24757",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24756": {
+   "slug": "auxiliar-administrativo-ricla-boe-a-2026-24756",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24755": {
+   "slug": "delineante-sant-lluis-boe-a-2026-24755",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24754": {
+   "slug": "tecnico-medio-santa-coloma-gramenet-boe-a-2026-24754",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24753": {
+   "slug": "oficial-policia-local-puertollano-boe-a-2026-24753",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24750": {
+   "slug": "auxiliar-tecnico-imagen-sonido-salamanca-boe-a-2026-24750",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24749": {
+   "slug": "arquitecto-tecnico-medio-cudeyo-boe-a-2026-24749",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24748": {
+   "slug": "tecnico-administrativo-deportes-torrevieja-boe-a-2026-24748",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24747": {
+   "slug": "tecnico-medio-informatico-servicios-tecnologias-torrevieja-boe-a-2026-24747",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24746": {
+   "slug": "bomberos-granada-boe-a-2026-24746",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24745": {
+   "slug": "administrativo-administracion-general-benicassim-benicasim-boe-a-2026-24745",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24744": {
+   "slug": "tecnico-medio-informatica-canet-mar-boe-a-2026-24744",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24743": {
+   "slug": "auxiliar-administrativo-garriga-boe-a-2026-24743",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24742": {
+   "slug": "trabajador-social-santa-cruz-palma-boe-a-2026-24742",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24741": {
+   "slug": "encargado-centros-comarcales-guadalajara-boe-a-2026-24741",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24740": {
+   "slug": "tecnico-medio-gestion-administrativo-1-villanueva-perales-boe-a-2026-24740",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24733": {
+   "slug": "cuerpo-maestros-arsenales-armada-estatal-boe-a-2026-24733",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24732": {
+   "slug": "cuerpo-ingenieros-tecnicos-arsenales-armada-estatal-boe-a-2026-24732",
+   "lastmod": "2026-11-25"
+  },
+  "BOE-A-2026-24731": {
+   "slug": "cuerpo-ingenieros-tecnicos-arsenales-armada-estatal-boe-a-2026-24731",
+   "lastmod": "2026-11-25"
+  },
   "BOE-A-2026-24364": {
    "slug": "profesor-titular-universidad-universidad-publica-navarra-boe-a-2026-24364",
    "lastmod": "2026-11-24"
   },
   "BOE-A-2026-24363": {
    "slug": "concurso-acceso-plaza-universidad-complutense-madrid-boe-a-2026-24363",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24360": {
    "slug": "administrativo-orellana-vieja-boe-a-2026-24360",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24359": {
    "slug": "administrativo-adscrito-area-secretaria-olvera-boe-a-2026-24359",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24358": {
    "slug": "tecnico-administracion-general-capdepera-boe-a-2026-24358",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24357": {
    "slug": "auxiliar-ayuda-domicilio-cabezas-san-juan-boe-a-2026-24357",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24356": {
    "slug": "agentes-policia-local-artes-boe-a-2026-24356",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24355": {
    "slug": "arquitecto-administrativo-1-mas-jumilla-boe-a-2026-24355",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24354": {
    "slug": "sepulturero-madridejos-boe-a-2026-24354",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24353": {
    "slug": "auxiliar-administrativo-pantoja-boe-a-2026-24353",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24352": {
    "slug": "enfermera-terapeuta-ocupacional-1-mas-jaen-boe-a-2026-24352",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24351": {
    "slug": "supervisora-or-obras-jaen-boe-a-2026-24351",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24346": {
    "slug": "medico-empresa-palmas-boe-a-2026-24346",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24345": {
    "slug": "auxiliar-administrativo-viso-san-juan-boe-a-2026-24345",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24344": {
    "slug": "coordinadores-cultura-getafe-boe-a-2026-24344",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24343": {
    "slug": "tecnico-medio-maestro-escuelas-infantiles-getafe-boe-a-2026-24343",
@@ -67,27 +171,27 @@
   },
   "BOE-A-2026-24342": {
    "slug": "agente-policia-local-altafulla-boe-a-2026-24342",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24341": {
    "slug": "tecnico-biblioteca-arquitecto-tecnico-armilla-boe-a-2026-24341",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24340": {
    "slug": "operario-especialista-mantenimiento-tietar-boe-a-2026-24340",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24335": {
    "slug": "tecnico-especialista-sistemas-tecnologia-informacion-estatal-boe-a-2026-24335",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24331": {
    "slug": "escala-superior-especialistas-transporte-estatal-boe-a-2026-24331",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24243": {
    "slug": "subgrupo-a1-universitat-valencia-boe-a-2026-24243",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24241": {
    "slug": "catedratico-universidad-universidad-almeria-boe-a-2026-24241",
@@ -103,27 +207,27 @@
   },
   "BOE-A-2026-24238": {
    "slug": "ingeniero-tecnico-barcelona-boe-a-2026-24238",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24237": {
    "slug": "policia-local-ayuntamiento-san-clemente-san-clemente-boe-a-2026-24237",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24236": {
    "slug": "subinspector-policia-oficial-policia-daganzo-arriba-boe-a-2026-24236",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24235": {
    "slug": "oficial-electricista-oficial-jardineria-3-mas-gojar-boe-a-2026-24235",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24234": {
    "slug": "oficial-alcazar-boe-a-2026-24234",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24233": {
    "slug": "trabajador-social-trabajador-familiar-consell-boe-a-2026-24233",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24232": {
    "slug": "educador-adultos-generalista-ejea-caballeros-boe-a-2026-24232",
@@ -131,39 +235,39 @@
   },
   "BOE-A-2026-24231": {
    "slug": "administrativo-tarragona-boe-a-2026-24231",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24230": {
    "slug": "tecnico-medio-bibliotecario-reus-boe-a-2026-24230",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24229": {
    "slug": "tecnico-administracion-general-portillo-toledo-boe-a-2026-24229",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24228": {
    "slug": "policia-local-ribeira-boe-a-2026-24228",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24227": {
    "slug": "encargado-general-castellanos-moriscos-boe-a-2026-24227",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24226": {
    "slug": "administrativo-departamento-recursos-humanos-aljaraque-boe-a-2026-24226",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24225": {
    "slug": "encargado-imprenta-mecanico-conductor-7-mas-ciudad-real-boe-a-2026-24225",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24224": {
    "slug": "agente-igualdad-borriana-burriana-boe-a-2026-24224",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24223": {
    "slug": "peon-especialista-burgos-boe-a-2026-24223",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24221": {
    "slug": "guarda-montero-ejea-caballeros-boe-a-2026-24221",
@@ -171,23 +275,23 @@
   },
   "BOE-A-2026-24218": {
    "slug": "tecnico-titulado-medio-informatica-estatal-boe-a-2026-24218",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24217": {
    "slug": "cuerpo-ingenieros-tecnicos-especialidades-agricolas-estatal-boe-a-2026-24217",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24178": {
    "slug": "escala-media-asesoramiento-linguistico-universidad-jaume-i-boe-a-2026-24178",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24177": {
    "slug": "escala-tecnica-basica-laboratorios-universidad-jaume-i-boe-a-2026-24177",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24176": {
    "slug": "subgrupo-c1-universidad-jaume-i-boe-a-2026-24176",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24175": {
    "slug": "profesor-titular-universidad-universidad-alcala-boe-a-2026-24175",
@@ -195,79 +299,79 @@
   },
   "BOE-A-2026-24174": {
    "slug": "psicologo-servicios-sociales-educador-social-1-mas-godella-boe-a-2026-24174",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24173": {
    "slug": "tecnico-superior-informatica-viladecans-boe-a-2026-24173",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24172": {
    "slug": "tecnico-tecnica-gestion-administrativa-secretaria-almoradi-boe-a-2026-24172",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24171": {
    "slug": "guia-didactico-villas-romana-palencia-boe-a-2026-24171",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24170": {
    "slug": "psicologo-tecnico-inclusion-social-5-mas-salobrena-boe-a-2026-24170",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24169": {
    "slug": "conserje-operario-servicios-multiples-alpedrete-boe-a-2026-24169",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24168": {
    "slug": "auxiliar-administrativo-celador-sant-antoni-portmany-boe-a-2026-24168",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24167": {
    "slug": "policia-local-laredo-boe-a-2026-24167",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24166": {
    "slug": "encargado-oficios-barakaldo-boe-a-2026-24166",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24165": {
    "slug": "tecnico-superior-educacion-castelldefels-boe-a-2026-24165",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24164": {
    "slug": "ayudante-cocina-illes-balears-boe-a-2026-24164",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24163": {
    "slug": "encargado-biblioteca-fortuna-boe-a-2026-24163",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24162": {
    "slug": "limpiador-benameji-boe-a-2026-24162",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24161": {
    "slug": "tecnico-medio-oficina-cultural-coma-cros-salt-boe-a-2026-24161",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24160": {
    "slug": "arquitecto-puebla-cazalla-boe-a-2026-24160",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24159": {
    "slug": "tecnico-gestion-oviedo-boe-a-2026-24159",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24158": {
    "slug": "tecnico-superior-seccion-juridico-castelldefels-boe-a-2026-24158",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24157": {
    "slug": "tecnico-medio-contabilidad-castelldefels-boe-a-2026-24157",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24156": {
    "slug": "tecnico-medio-artes-plasticas-valencia-boe-a-2026-24156",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24155": {
    "slug": "tecnico-superior-educacion-infantil-alicante-boe-a-2026-24155",
@@ -275,27 +379,27 @@
   },
   "BOE-A-2026-24154": {
    "slug": "tecnico-informatico-navalcarnero-boe-a-2026-24154",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24153": {
    "slug": "monitor-ajedrez-estepona-boe-a-2026-24153",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24152": {
    "slug": "auxiliar-instalaciones-deportivas-burgos-boe-a-2026-24152",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24151": {
    "slug": "tecnico-administracion-general-l-alfas-pi-boe-a-2026-24151",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24150": {
    "slug": "oficial-cuerpo-policia-local-puebla-montalban-boe-a-2026-24150",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24149": {
    "slug": "administrativo-maria-boe-a-2026-24149",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24148": {
    "slug": "cuerpo-catedraticos-musica-artes-escenicas-madrid-boe-a-2026-24148",
@@ -307,7 +411,7 @@
   },
   "BOE-A-2026-24137": {
    "slug": "cuerpo-ingenieros-tecnicos-topografia-estatal-boe-a-2026-24137",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24134": {
    "slug": "coordinador-cooperacion-espanola-senegal-estatal-boe-a-2026-24134",
@@ -319,15 +423,15 @@
   },
   "BOE-A-2026-24093": {
    "slug": "escala-basica-laboratorios-ciencias-universidad-alicante-boe-a-2026-24093",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24091": {
    "slug": "subgrupo-c1-universidad-nacional-educacion-boe-a-2026-24091",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24090": {
    "slug": "subgrupo-a1-universitat-valencia-boe-a-2026-24090",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24089": {
    "slug": "cuerpos-docentes-universitarios-universidad-malaga-boe-a-2026-24089",
@@ -343,39 +447,39 @@
   },
   "BOE-A-2026-24085": {
    "slug": "psicologo-san-sebastian-reyes-boe-a-2026-24085",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24084": {
    "slug": "tecnico-municipal-area-intervencion-economia-tecnico-gojar-boe-a-2026-24084",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24083": {
    "slug": "alguacil-mayorga-boe-a-2026-24083",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24082": {
    "slug": "vigilante-catllar-boe-a-2026-24082",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24081": {
    "slug": "arquitecto-auxiliar-biblioteca-almensilla-boe-a-2026-24081",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24080": {
    "slug": "tecnico-prevencion-riesgos-vilanova-cami-boe-a-2026-24080",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24079": {
    "slug": "oficial-policia-local-sargento-servicio-castello-plana-boe-a-2026-24079",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24078": {
    "slug": "administrativo-jaen-boe-a-2026-24078",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24077": {
    "slug": "oficial-primera-obras-servicios-multiples-toro-boe-a-2026-24077",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24076": {
    "slug": "agente-empleo-desarrollo-local-solana-barros-boe-a-2026-24076",
@@ -383,79 +487,79 @@
   },
   "BOE-A-2026-24075": {
    "slug": "tecnico-administracion-general-albacete-boe-a-2026-24075",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24074": {
    "slug": "tecnico-superior-pedagogo-area-politicas-sociales-barcelona-boe-a-2026-24074",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24073": {
    "slug": "oficial-segunda-servicios-multiples-mantenimiento-duenas-boe-a-2026-24073",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24072": {
    "slug": "inspector-cuerpo-policia-local-totana-boe-a-2026-24072",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24071": {
    "slug": "psicologo-auxiliar-servicios-tarragona-boe-a-2026-24071",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24070": {
    "slug": "administrativo-zubia-boe-a-2026-24070",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24069": {
    "slug": "tecnico-deportes-abrera-boe-a-2026-24069",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24068": {
    "slug": "alguacil-vigilante-municipal-alfarras-boe-a-2026-24068",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24067": {
    "slug": "arqueologo-psicologo-denia-boe-a-2026-24067",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24066": {
    "slug": "tecnico-medio-recaudacion-lleida-boe-a-2026-24066",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24065": {
    "slug": "encargado-unidad-gestion-ingresos-personal-palencia-boe-a-2026-24065",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24064": {
    "slug": "administrativo-base-datos-avila-boe-a-2026-24064",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24025": {
    "slug": "cuerpo-ingenieros-geografos-estatal-boe-a-2026-24025",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-24024": {
    "slug": "personal-laboral-fijo-ingeniero-tecnico-industrial-estatal-boe-a-2026-24024",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23958": {
    "slug": "subgrupo-a2-universidad-zaragoza-boe-a-2026-23958",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23957": {
    "slug": "especialidad-informatica-universidad-cadiz-boe-a-2026-23957",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23956": {
    "slug": "especialidad-agropecuaria-universidad-zaragoza-boe-a-2026-23956",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23955": {
    "slug": "escala-ayudantes-archivos-bibliotecas-universidad-zaragoza-boe-a-2026-23955",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23954": {
    "slug": "escala-facultativa-archivos-bibliotecas-universidad-zaragoza-boe-a-2026-23954",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23951": {
    "slug": "profesor-titular-universidad-universidad-almeria-boe-a-2026-23951",
@@ -475,39 +579,39 @@
   },
   "BOE-A-2026-23947": {
    "slug": "tecnico-administracion-general-cocentaina-boe-a-2026-23947",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23945": {
    "slug": "conserje-polideportivo-coordinador-centro-cultural-hernani-boe-a-2026-23945",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23944": {
    "slug": "tecnico-administracion-general-juridico-tecnico-polinya-boe-a-2026-23944",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23943": {
    "slug": "conserje-colegio-publico-villanueva-gallego-boe-a-2026-23943",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23942": {
    "slug": "responsable-departamento-servicios-publicos-hernani-boe-a-2026-23942",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23941": {
    "slug": "administrativo-tecnico-gestion-lleida-boe-a-2026-23941",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23939": {
    "slug": "tecnico-trabajo-social-enfermero-donostia-san-sebastian-boe-a-2026-23939",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23922": {
    "slug": "enfermeria-obstetrico-ginecologico-matron-estatal-boe-a-2026-23922",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23921": {
    "slug": "proceso-selectivo-concurso-sistema-general-acceso-estatal-boe-a-2026-23921",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23870": {
    "slug": "profesorado-titular-universidad-pais-vasco-euskal-boe-a-2026-23870",
@@ -523,75 +627,75 @@
   },
   "BOE-A-2026-23866": {
    "slug": "archivero-auxiliar-administrativo-navacerrada-boe-a-2026-23866",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23865": {
    "slug": "operario-servicios-multiples-ciudad-real-boe-a-2026-23865",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23864": {
    "slug": "peon-peona-enterrador-obras-brigada-obras-gata-gorgos-boe-a-2026-23864",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23863": {
    "slug": "ingeniero-tecnico-sentmenat-boe-a-2026-23863",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23862": {
    "slug": "administrativo-administracion-general-malpartida-caceres-boe-a-2026-23862",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23861": {
    "slug": "administrativo-villalbilla-boe-a-2026-23861",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23860": {
    "slug": "peon-operario-servicios-fondo-les-neus-hondon-nieves-boe-a-2026-23860",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23859": {
    "slug": "trabajador-social-segovia-boe-a-2026-23859",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23858": {
    "slug": "auxiliar-farmacia-illes-balears-boe-a-2026-23858",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23857": {
    "slug": "operario-sabadell-boe-a-2026-23857",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23856": {
    "slug": "subalterno-sabadell-boe-a-2026-23856",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23855": {
    "slug": "inspector-policia-local-oficial-policia-local-1-mas-alicante-boe-a-2026-23855",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23854": {
    "slug": "auxiliares-apoyo-global-getafe-boe-a-2026-23854",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23853": {
    "slug": "policia-local-moralzarzal-boe-a-2026-23853",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23852": {
    "slug": "administrativo-servicios-generales-adscrita-area-seva-boe-a-2026-23852",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23851": {
    "slug": "oficial-primera-tractorista-pravia-boe-a-2026-23851",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23850": {
    "slug": "auxiliar-administrativo-tarragona-boe-a-2026-23850",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23809": {
    "slug": "escala-tecnicos-medios-informatica-universidad-zaragoza-boe-a-2026-23809",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23808": {
    "slug": "cuerpos-docentes-universitarios-universidad-alcala-boe-a-2026-23808",
@@ -599,159 +703,159 @@
   },
   "BOE-A-2026-23807": {
    "slug": "sargento-bomberos-cuenca-boe-a-2026-23807",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23806": {
    "slug": "responsable-gestion-expedientes-informatica-astigarraga-boe-a-2026-23806",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23805": {
    "slug": "administrativo-intervencion-azkoitia-boe-a-2026-23805",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23804": {
    "slug": "oficial-policia-local-antequera-boe-a-2026-23804",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23803": {
    "slug": "peon-servicios-multiples-hoyo-manzanares-boe-a-2026-23803",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23802": {
    "slug": "tecnico-administracion-general-santa-eugenia-boe-a-2026-23802",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23801": {
    "slug": "tecnico-recursos-humanos-solana-boe-a-2026-23801",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23800": {
    "slug": "oficial-cerrajero-alcorcon-boe-a-2026-23800",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23799": {
    "slug": "oficial-primera-electricista-pravia-boe-a-2026-23799",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23798": {
    "slug": "inspector-policia-local-huelva-boe-a-2026-23798",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23797": {
    "slug": "policia-local-huelva-boe-a-2026-23797",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23796": {
    "slug": "subinspector-policia-local-oficial-policia-local-huelva-boe-a-2026-23796",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23722": {
    "slug": "subgrupo-a2-universitat-valencia-boe-a-2026-23722",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23720": {
    "slug": "encargado-obra-salt-boe-a-2026-23720",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23719": {
    "slug": "operario-mantenimiento-media-jornada-villalar-comuneros-boe-a-2026-23719",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23718": {
    "slug": "auxiliares-administrativos-guadarrama-boe-a-2026-23718",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23717": {
    "slug": "asesor-juridico-administrativo-bonares-boe-a-2026-23717",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23716": {
    "slug": "ingeniero-tecnico-industrial-atarfe-boe-a-2026-23716",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23715": {
    "slug": "monitor-deportivo-segura-sierra-boe-a-2026-23715",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23714": {
    "slug": "administrativo-palmar-troya-boe-a-2026-23714",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23713": {
    "slug": "psicologo-servicios-sociales-psicologo-atencion-velez-malaga-boe-a-2026-23713",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23712": {
    "slug": "arquitecto-tecnico-badajoz-boe-a-2026-23712",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23711": {
    "slug": "tecnico-gestion-administrativa-badajoz-boe-a-2026-23711",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23710": {
    "slug": "tecnico-superior-valladolid-boe-a-2026-23710",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23709": {
    "slug": "auxiliar-administracion-general-peligros-boe-a-2026-23709",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23708": {
    "slug": "policia-local-nueva-carteya-boe-a-2026-23708",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23707": {
    "slug": "cocinero-illes-balears-boe-a-2026-23707",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23705": {
    "slug": "encargado-unidad-gestion-instalaciones-palencia-boe-a-2026-23705",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23704": {
    "slug": "administrativo-massalfassar-boe-a-2026-23704",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23703": {
    "slug": "trabajador-social-navalcarnero-boe-a-2026-23703",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23702": {
    "slug": "peon-servicios-multiples-cigales-boe-a-2026-23702",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23701": {
    "slug": "conserje-ordenanza-betera-boe-a-2026-23701",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23700": {
    "slug": "tecnico-administracion-especial-recursos-humanos-barbate-boe-a-2026-23700",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23699": {
    "slug": "agente-guardia-municipal-donostia-san-sebastian-boe-a-2026-23699",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23698": {
    "slug": "administrativo-adscrito-servicio-contabilidad-rabade-boe-a-2026-23698",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23694": {
    "slug": "titulado-superior-funcion-administrativa-estatal-boe-a-2026-23694",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23691": {
    "slug": "personal-laboral-fijo-fuera-convenio-con-categoria-estatal-boe-a-2026-23691",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23651": {
    "slug": "subgrupo-c2-universidad-granada-boe-a-2026-23651",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23650": {
    "slug": "tecnico-proyecto-eunice-universidad-cantabria-boe-a-2026-23650",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23649": {
    "slug": "profesor-titular-universidad-universidad-granada-boe-a-2026-23649",
@@ -759,55 +863,55 @@
   },
   "BOE-A-2026-23648": {
    "slug": "tecnico-administracion-general-barbate-boe-a-2026-23648",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23647": {
    "slug": "auxiliar-administrativo-operario-serivicios-pradena-boe-a-2026-23647",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23646": {
    "slug": "oficial-policia-ferreries-boe-a-2026-23646",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23645": {
    "slug": "tecnico-servicios-urbanisticos-municipales-lleida-boe-a-2026-23645",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23644": {
    "slug": "tecnico-medio-enfermero-trabajo-getafe-boe-a-2026-23644",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23643": {
    "slug": "administrativo-torrejon-ardoz-boe-a-2026-23643",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23642": {
    "slug": "ingeniero-masnou-boe-a-2026-23642",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23641": {
    "slug": "dinamizador-innovacion-local-tiempo-parcial-hinojares-boe-a-2026-23641",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23640": {
    "slug": "agente-policia-local-yecla-boe-a-2026-23640",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23639": {
    "slug": "agente-igualdad-palencia-boe-a-2026-23639",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23638": {
    "slug": "agente-policia-local-lloret-mar-boe-a-2026-23638",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23635": {
    "slug": "agente-policia-local-soneja-boe-a-2026-23635",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23634": {
    "slug": "tecnicos-administracion-general-guadarrama-boe-a-2026-23634",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23633": {
    "slug": "profesor-ingles-escuela-permanente-adultos-meliana-boe-a-2026-23633",
@@ -815,43 +919,43 @@
   },
   "BOE-A-2026-23632": {
    "slug": "administrativo-administrativa-guadalcanal-boe-a-2026-23632",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23631": {
    "slug": "oficial-primera-almacen-zaragoza-boe-a-2026-23631",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23630": {
    "slug": "asesor-juridico-atencion-primaria-dedicacion-parcial-meliana-boe-a-2026-23630",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23629": {
    "slug": "auxiliar-administrativo-oficial-servicios-salobrena-boe-a-2026-23629",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23628": {
    "slug": "encargado-general-obras-servicios-personal-limpieza-castuera-boe-a-2026-23628",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23627": {
    "slug": "auxiliar-administrativo-administrativo-castuera-boe-a-2026-23627",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23626": {
    "slug": "auxiliar-adminitrativo-avila-boe-a-2026-23626",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23625": {
    "slug": "policia-local-ses-salines-boe-a-2026-23625",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23588": {
    "slug": "subgrupo-c1-universidad-jaume-i-boe-a-2026-23588",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23587": {
    "slug": "subgrupo-c1-universidad-jaume-i-boe-a-2026-23587",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23586": {
    "slug": "personal-laboral-grupo-iii-universidad-nacional-educacion-boe-a-2026-23586",
@@ -859,7 +963,7 @@
   },
   "BOE-A-2026-23582": {
    "slug": "subgrupo-a1-universitat-valencia-boe-a-2026-23582",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23581": {
    "slug": "catedraticos-universidad-universidad-jaen-boe-a-2026-23581",
@@ -867,11 +971,11 @@
   },
   "BOE-A-2026-23580": {
    "slug": "concurso-acceso-plaza-vinculada-universidad-salamanca-boe-a-2026-23580",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23579": {
    "slug": "concurso-acceso-plaza-vinculada-universidad-salamanca-boe-a-2026-23579",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23577": {
    "slug": "cuerpos-docentes-universidad-autonoma-barcelona-boe-a-2026-23577",
@@ -879,111 +983,111 @@
   },
   "BOE-A-2026-23574": {
    "slug": "tecnico-prevencion-riesgos-tecnico-juridico-9-mas-calvia-boe-a-2026-23574",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23573": {
    "slug": "oficial-servicios-multiples-tarazona-boe-a-2026-23573",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23572": {
    "slug": "operario-obras-jardines-limpieza-viaria-almonaster-real-boe-a-2026-23572",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23571": {
    "slug": "agentes-policia-local-benalup-casas-viejas-boe-a-2026-23571",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23570": {
    "slug": "encargado-encargada-brigada-obras-legazpi-boe-a-2026-23570",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23569": {
    "slug": "tecnico-especialista-dinamizacion-inspector-viladecans-boe-a-2026-23569",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23568": {
    "slug": "administrativo-departamento-benalup-casas-viejas-boe-a-2026-23568",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23567": {
    "slug": "tecnico-medios-comunicacion-sant-pere-ribes-boe-a-2026-23567",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23566": {
    "slug": "inspector-guardia-urbana-manresa-boe-a-2026-23566",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23565": {
    "slug": "trabajador-social-garriga-boe-a-2026-23565",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23564": {
    "slug": "administrativo-corvera-asturias-boe-a-2026-23564",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23563": {
    "slug": "administrativo-urbanismo-puebla-guzman-boe-a-2026-23563",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23562": {
    "slug": "agente-policia-epila-boe-a-2026-23562",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23561": {
    "slug": "tecnico-medio-informatica-gestion-almassora-boe-a-2026-23561",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23560": {
    "slug": "delineante-tecnico-turismo-5-mas-calvia-boe-a-2026-23560",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23559": {
    "slug": "agente-empleo-desarrollo-local-realejos-boe-a-2026-23559",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23558": {
    "slug": "oficial-oficiala-primera-fontanero-oficial-oficiala-alaquas-boe-a-2026-23558",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23557": {
    "slug": "coordinador-limpieza-ribes-freser-boe-a-2026-23557",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23556": {
    "slug": "vigilante-municipal-l-espluga-francoli-boe-a-2026-23556",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23555": {
    "slug": "tecnico-superior-servicios-sociales-coruna-boe-a-2026-23555",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23554": {
    "slug": "tecnico-superior-seguridad-tecnico-superior-coruna-boe-a-2026-23554",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23553": {
    "slug": "tecnico-auxiliar-biblioteca-coruna-boe-a-2026-23553",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23552": {
    "slug": "tecnico-medio-archivo-biblioteca-valencia-boe-a-2026-23552",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23551": {
    "slug": "conserje-polideportivo-valencia-boe-a-2026-23551",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23546": {
    "slug": "tecnico-superior-oficios-jefe-taller-encargado-estatal-boe-a-2026-23546",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23545": {
    "slug": "ingeniero-superior-estatal-boe-a-2026-23545",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23476": {
    "slug": "subgrupo-a1-universidad-lleida-boe-a-2026-23476",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23475": {
    "slug": "catedratico-universidad-universidad-salamanca-boe-a-2026-23475",
@@ -1011,171 +1115,171 @@
   },
   "BOE-A-2026-23467": {
    "slug": "enfermero-sarria-boe-a-2026-23467",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23466": {
    "slug": "guardia-municipal-ribes-freser-boe-a-2026-23466",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23465": {
    "slug": "oficial-primera-obras-valdepenas-boe-a-2026-23465",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23464": {
    "slug": "adminsitrativo-va-cervello-boe-a-2026-23464",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23463": {
    "slug": "tecnico-superior-tecnologias-informacion-tecnico-leon-boe-a-2026-23463",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23462": {
    "slug": "tecnico-ciudadania-vic-boe-a-2026-23462",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23461": {
    "slug": "tecnico-salud-publica-veterinario-valladolid-boe-a-2026-23461",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23460": {
    "slug": "oficial-valladolid-boe-a-2026-23460",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23459": {
    "slug": "ayudante-produccion-santa-cruz-tenerife-boe-a-2026-23459",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23458": {
    "slug": "informador-turistico-operario-parques-jardines-2-mas-sarria-boe-a-2026-23458",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23457": {
    "slug": "peon-operario-mantenimiento-alcudia-boe-a-2026-23457",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23456": {
    "slug": "oficial-jardineria-pedrajas-san-esteban-boe-a-2026-23456",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23455": {
    "slug": "tecnico-turismo-culla-boe-a-2026-23455",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23454": {
    "slug": "arquitecto-tecnico-ronda-boe-a-2026-23454",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23453": {
    "slug": "oficial-primera-carpintero-cordoba-boe-a-2026-23453",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23452": {
    "slug": "ingeniero-tecnico-industrial-palma-boe-a-2026-23452",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23451": {
    "slug": "arquitecto-arta-boe-a-2026-23451",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23450": {
    "slug": "auxiliares-clinica-residencia-social-pollenca-boe-a-2026-23450",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23449": {
    "slug": "administrativo-bascara-boe-a-2026-23449",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23448": {
    "slug": "administrativo-tecnico-gestion-calvia-boe-a-2026-23448",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23447": {
    "slug": "informador-turistico-culla-boe-a-2026-23447",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23446": {
    "slug": "tecnico-superior-gestion-economica-carolina-boe-a-2026-23446",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23445": {
    "slug": "administrativo-picanya-boe-a-2026-23445",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23444": {
    "slug": "psicologo-coruna-boe-a-2026-23444",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23443": {
    "slug": "oficial-proteccion-civil-coruna-boe-a-2026-23443",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23442": {
    "slug": "tecnico-superior-museos-cientificos-tecnico-coruna-boe-a-2026-23442",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23441": {
    "slug": "conserje-edificios-publicos-sant-joan-d-alacant-boe-a-2026-23441",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23440": {
    "slug": "locutor-locutora-radio-altea-altea-boe-a-2026-23440",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23439": {
    "slug": "tecnico-juventud-muro-alcoy-boe-a-2026-23439",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23438": {
    "slug": "agente-empleo-desarrollo-local-betxi-boe-a-2026-23438",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23437": {
    "slug": "alguacil-soneja-boe-a-2026-23437",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23436": {
    "slug": "cabos-extincion-incendios-melilla-boe-a-2026-23436",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23435": {
    "slug": "personal-oficial-primera-electricista-brigada-puigcerda-boe-a-2026-23435",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23434": {
    "slug": "monitor-deportes-tijola-boe-a-2026-23434",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23433": {
    "slug": "tecnico-medio-archivo-torrejon-ardoz-boe-a-2026-23433",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23432": {
    "slug": "administrativo-iva-els-pallaresos-boe-a-2026-23432",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23431": {
    "slug": "tecnico-administracion-general-hornachuelos-boe-a-2026-23431",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23430": {
    "slug": "oficial-mantenimiento-auxiliar-cuidador-5-mas-illes-balears-boe-a-2026-23430",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23429": {
    "slug": "agente-policia-local-valencia-boe-a-2026-23429",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23428": {
    "slug": "cabo-bombero-oficial-bombero-1-mas-valencia-boe-a-2026-23428",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23427": {
    "slug": "vigilante-instalaciones-museograficas-trabajador-denia-boe-a-2026-23427",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23426": {
    "slug": "trabajador-social-jaen-boe-a-2026-23426",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23360": {
    "slug": "tecnico-superior-aguas-logrono-boe-a-2026-23360",
@@ -1183,23 +1287,23 @@
   },
   "BOE-A-2026-23359": {
    "slug": "tecnico-gestion-administracion-general-espinar-boe-a-2026-23359",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23358": {
    "slug": "auxiliar-administrativo-cabanillas-campo-boe-a-2026-23358",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23357": {
    "slug": "tecnico-sanidad-rozas-madrid-boe-a-2026-23357",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23356": {
    "slug": "monitor-dinamizador-turismo-patrimonio-almonaster-real-boe-a-2026-23356",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23355": {
    "slug": "agente-policia-local-l-alcora-boe-a-2026-23355",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23312": {
    "slug": "profesor-titular-universidad-universidad-coruna-boe-a-2026-23312",
@@ -1207,7 +1311,7 @@
   },
   "BOE-A-2026-23310": {
    "slug": "tecnico-medio-ingeniero-tecnico-industrial-guadarrama-boe-a-2026-23310",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23309": {
    "slug": "tecnico-medio-medio-ambiente-guadarrama-boe-a-2026-23309",
@@ -1215,47 +1319,47 @@
   },
   "BOE-A-2026-23308": {
    "slug": "tecnico-superior-edificacion-obras-sant-fruitos-bages-boe-a-2026-23308",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23307": {
    "slug": "operario-servicios-multiples-nava-arevalo-boe-a-2026-23307",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23306": {
    "slug": "encargado-valladolid-boe-a-2026-23306",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23305": {
    "slug": "tecnico-superior-rama-social-madrid-boe-a-2026-23305",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23304": {
    "slug": "tecnico-superior-rama-social-madrid-boe-a-2026-23304",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23303": {
    "slug": "peon-brigada-fraga-boe-a-2026-23303",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23215": {
    "slug": "tecnico-servicio-municipios-lleida-boe-a-2026-23215",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23214": {
    "slug": "subinspector-policia-local-san-andres-rabanedo-boe-a-2026-23214",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23213": {
    "slug": "maestro-oficial-servicios-multiples-tecnico-medio-maracena-boe-a-2026-23213",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23212": {
    "slug": "auxiliar-administrativo-grado-boe-a-2026-23212",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23211": {
    "slug": "educador-social-garriga-boe-a-2026-23211",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23210": {
    "slug": "guarda-campo-don-benito-boe-a-2026-23210",
@@ -1263,39 +1367,39 @@
   },
   "BOE-A-2026-23209": {
    "slug": "auxiliar-logistica-don-benito-boe-a-2026-23209",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23208": {
    "slug": "trabajador-social-garriga-boe-a-2026-23208",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23207": {
    "slug": "personal-arquitecto-tecnico-peza-boe-a-2026-23207",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23206": {
    "slug": "administrativo-bembibre-boe-a-2026-23206",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23205": {
    "slug": "administrativo-albuixech-boe-a-2026-23205",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23204": {
    "slug": "ayudante-cocina-denia-boe-a-2026-23204",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23196": {
    "slug": "oficial-oficiala-tercera-oficios-auxiliares-estatal-boe-a-2026-23196",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23062": {
    "slug": "subgrupo-a2-universidad-granada-boe-a-2026-23062",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23061": {
    "slug": "tecnico-prevencion-riesgos-laborales-universidad-coruna-boe-a-2026-23061",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23060": {
    "slug": "catedratico-universidad-universidad-extremadura-boe-a-2026-23060",
@@ -1303,103 +1407,103 @@
   },
   "BOE-A-2026-23058": {
    "slug": "arquitecto-monitor-cultural-pintura-1-mas-maracena-boe-a-2026-23058",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23057": {
    "slug": "tecnico-cultura-illes-balears-boe-a-2026-23057",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23056": {
    "slug": "tecnico-formacion-desarrollo-local-nucia-boe-a-2026-23056",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23055": {
    "slug": "tecnico-administracion-general-coruna-boe-a-2026-23055",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23054": {
    "slug": "arquitecto-tecnico-ames-boe-a-2026-23054",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23053": {
    "slug": "personal-administrativo-puigcerda-boe-a-2026-23053",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23052": {
    "slug": "tecnico-gestion-tributaria-sant-joan-d-alacant-boe-a-2026-23052",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23051": {
    "slug": "tecnico-dinamizador-ocupacional-lleida-boe-a-2026-23051",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23050": {
    "slug": "dinamizador-bibliotecas-santa-cruz-palma-boe-a-2026-23050",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23049": {
    "slug": "agente-policia-local-borriana-burriana-boe-a-2026-23049",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23048": {
    "slug": "tecnico-gestion-torello-boe-a-2026-23048",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23047": {
    "slug": "graduado-social-alcudia-boe-a-2026-23047",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23046": {
    "slug": "policia-local-seron-boe-a-2026-23046",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23045": {
    "slug": "administrativo-tarragona-boe-a-2026-23045",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23044": {
    "slug": "auxiliar-administrativo-villa-rio-boe-a-2026-23044",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23043": {
    "slug": "auxiliar-administrativo-escurial-boe-a-2026-23043",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23042": {
    "slug": "educador-social-torrox-boe-a-2026-23042",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23041": {
    "slug": "subalterno-torrox-boe-a-2026-23041",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23040": {
    "slug": "tecnico-administracion-general-mostoles-boe-a-2026-23040",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23039": {
    "slug": "auxiliar-administrativo-cudillero-boe-a-2026-23039",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23038": {
    "slug": "bibliotecario-salobrena-boe-a-2026-23038",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23037": {
    "slug": "tecnico-superior-servicios-sociales-psicologo-almoradi-boe-a-2026-23037",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23036": {
    "slug": "tecnico-tecnica-sanidad-altea-boe-a-2026-23036",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-23035": {
    "slug": "limpiadora-lavandera-carmona-boe-a-2026-23035",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22958": {
    "slug": "letrada-asesor-juridica-universidad-publica-navarra-boe-a-2026-22958",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22952": {
    "slug": "cuerpos-docentes-universitarios-universidad-murcia-boe-a-2026-22952",
@@ -1407,7 +1511,7 @@
   },
   "BOE-A-2026-22951": {
    "slug": "gestor-administrativo-general-villamalea-boe-a-2026-22951",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22950": {
    "slug": "operario-comedor-escuela-infantil-municipal-celra-boe-a-2026-22950",
@@ -1415,84 +1519,84 @@
   },
   "BOE-A-2026-22949": {
    "slug": "oficial-oficiala-segunda-mantenimiento-obras-xeresa-boe-a-2026-22949",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22948": {
    "slug": "tecnico-proteccion-civil-servicios-lleida-boe-a-2026-22948",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22947": {
    "slug": "oficial-primera-albanil-oficial-primera-pintor-8-mas-ecija-boe-a-2026-22947",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22946": {
    "slug": "medico-barakaldo-boe-a-2026-22946",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22945": {
    "slug": "tecnico-juventud-alfafar-boe-a-2026-22945",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22944": {
    "slug": "administrativo-huescar-boe-a-2026-22944",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22943": {
    "slug": "jefe-dotacion-servicio-prevencion-extincion-benalmadena-boe-a-2026-22943",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22942": {
    "slug": "administrativo-atencion-publico-cadiz-boe-a-2026-22942",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22941": {
    "slug": "suboficial-coruna-boe-a-2026-22941",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22940": {
    "slug": "tecnico-gestion-informatica-guadarrama-boe-a-2026-22940",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22939": {
    "slug": "administrativo-cadiz-boe-a-2026-22939",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22938": {
    "slug": "peon-servicios-multiples-valdestillas-boe-a-2026-22938",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22937": {
    "slug": "tecnico-auxiliar-sonido-luces-audiovisuales-tiempo-cardedeu-boe-a-2026-22937",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22936": {
    "slug": "auxiliar-administracion-general-campello-boe-a-2026-22936",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22935": {
    "slug": "inspector-subinspector-almeria-boe-a-2026-22935",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22934": {
    "slug": "educadores-sociales-loja-boe-a-2026-22934",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22933": {
    "slug": "oficial-obras-servicios-pazos-borben-boe-a-2026-22933",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22932": {
    "slug": "intendente-orihuela-boe-a-2026-22932",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22931": {
    "slug": "oficial-obras-cudillero-boe-a-2026-22931",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   },
   "BOE-A-2026-22930": {
    "slug": "tecnico-sanidad-ambiental-oficial-electricista-alicante-boe-a-2026-22930",
-   "lastmod": "2026-11-24"
+   "lastmod": "2026-11-25"
   }
  },
- "inicio_lastmod": "2026-11-24"
+ "inicio_lastmod": "2026-11-25"
 }
