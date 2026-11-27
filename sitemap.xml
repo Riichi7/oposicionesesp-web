@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oposicionesesp.es/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -32,31 +32,331 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://oposicionesesp.es/convocatorias/subgrupo-c2-universidad-valladolid-boe-a-2026-24977.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/catedratico-universidad-universidad-girona-boe-a-2026-24975.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-cantabria-boe-a-2026-24974.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/oficial-policia-local-manises-boe-a-2026-24971.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/tecnico-gestion-recursos-humanos-san-antonio-benageber-boe-a-2026-24970.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/trabajador-social-palencia-boe-a-2026-24969.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-rafelguaraf-boe-a-2026-24968.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/auxiliar-archivos-bibliotecas-alfafar-boe-a-2026-24967.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/inspector-bombero-almeria-boe-a-2026-24966.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-torrelodones-boe-a-2026-24965.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/educador-familia-leon-boe-a-2026-24964.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/educador-social-leon-boe-a-2026-24963.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-crevillent-boe-a-2026-24962.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/oficial-policia-local-estepona-boe-a-2026-24961.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-torello-boe-a-2026-24960.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-huesca-boe-a-2026-24959.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/personal-oficial-mantenimiento-personal-vigilante-huesca-boe-a-2026-24958.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/ingeniero-tecnico-agricola-coruna-boe-a-2026-24957.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/gestor-administrativo-espana-boe-a-2026-24956.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/ingeniero-tecnico-agricola-tecnico-auxiliar-guadalajara-boe-a-2026-24954.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/administrativo-titulcia-boe-a-2026-24953.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/tecnico-auxiliar-educacion-tecnico-superior-esparreguera-boe-a-2026-24952.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/subgrupo-c1-universidad-palmas-gran-boe-a-2026-24883.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/catedratico-universidad-profesor-universidad-cantabria-boe-a-2026-24881.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/catedratico-universidad-universidad-cantabria-boe-a-2026-24880.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universitarios-universidad-cantabria-boe-a-2026-24879.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/subinspector-policia-local-oficial-tecnico-palencia-boe-a-2026-24878.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/administrativo-almoradi-boe-a-2026-24877.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/peon-mantenimiento-utebo-boe-a-2026-24876.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/tecnico-sonido-luz-audiovisual-salt-boe-a-2026-24875.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/tecnica-administracion-especial-arteixo-boe-a-2026-24874.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-derecho-barcelona-boe-a-2026-24873.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/oficial-electricista-badajoz-boe-a-2026-24872.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/administrativo-alp-boe-a-2026-24871.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/tecnico-salud-publica-valladolid-boe-a-2026-24870.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/arquitecto-olesa-bonesvalls-boe-a-2026-24869.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-roses-boe-a-2026-24868.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/ingeniero-tecnico-obras-publicas-ferrol-boe-a-2026-24867.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/administrativo-ejido-boe-a-2026-24866.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/encargado-general-profesionales-agrupaciones-mayorga-boe-a-2026-24865.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/monitor-ejido-boe-a-2026-24864.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/informatico-montijo-boe-a-2026-24863.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/ingeniero-caminos-canales-puertos-ejido-boe-a-2026-24862.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-benifaio-boe-a-2026-24861.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/administrativo-departamento-tesoreria-aljaraque-boe-a-2026-24860.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/arquitecto-tecnico-olesa-bonesvalls-boe-a-2026-24859.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/oficial-lampista-vic-boe-a-2026-24858.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/psicologo-intervencion-social-betera-boe-a-2026-24857.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/comisario-comisaria-policia-local-petrer-boe-a-2026-24856.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-3-mas-estatal-boe-a-2026-24839.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-auxiliar-valle-gran-rey-boe-a-2026-24764.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-innovacion-tecnologica-balanegra-boe-a-2026-24763.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-ciudad-rodrigo-boe-a-2026-24762.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-gestion-barbastro-boe-a-2026-24761.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -68,109 +368,109 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/jefe-negociado-recursos-humanos-navalcarnero-boe-a-2026-24759.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/capataz-cuevas-valle-boe-a-2026-24758.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/veterinario-salud-publica-melilla-boe-a-2026-24757.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-ricla-boe-a-2026-24756.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/delineante-sant-lluis-boe-a-2026-24755.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-santa-coloma-gramenet-boe-a-2026-24754.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-policia-local-puertollano-boe-a-2026-24753.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-tecnico-imagen-sonido-salamanca-boe-a-2026-24750.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/arquitecto-tecnico-medio-cudeyo-boe-a-2026-24749.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administrativo-deportes-torrevieja-boe-a-2026-24748.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-informatico-servicios-tecnologias-torrevieja-boe-a-2026-24747.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/bomberos-granada-boe-a-2026-24746.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-administracion-general-benicassim-benicasim-boe-a-2026-24745.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-informatica-canet-mar-boe-a-2026-24744.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-garriga-boe-a-2026-24743.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/trabajador-social-santa-cruz-palma-boe-a-2026-24742.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-centros-comarcales-guadalajara-boe-a-2026-24741.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-gestion-administrativo-1-villanueva-perales-boe-a-2026-24740.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -194,127 +494,127 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-publica-navarra-boe-a-2026-24364.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/concurso-acceso-plaza-universidad-complutense-madrid-boe-a-2026-24363.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-orellana-vieja-boe-a-2026-24360.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-adscrito-area-secretaria-olvera-boe-a-2026-24359.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-capdepera-boe-a-2026-24358.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-ayuda-domicilio-cabezas-san-juan-boe-a-2026-24357.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agentes-policia-local-artes-boe-a-2026-24356.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/arquitecto-administrativo-1-mas-jumilla-boe-a-2026-24355.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/sepulturero-madridejos-boe-a-2026-24354.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-pantoja-boe-a-2026-24353.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/enfermera-terapeuta-ocupacional-1-mas-jaen-boe-a-2026-24352.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/supervisora-or-obras-jaen-boe-a-2026-24351.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/medico-empresa-palmas-boe-a-2026-24346.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-viso-san-juan-boe-a-2026-24345.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/coordinadores-cultura-getafe-boe-a-2026-24344.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-maestro-escuelas-infantiles-getafe-boe-a-2026-24343.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-altafulla-boe-a-2026-24342.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-biblioteca-arquitecto-tecnico-armilla-boe-a-2026-24341.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/operario-especialista-mantenimiento-tietar-boe-a-2026-24340.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-especialista-sistemas-tecnologia-informacion-estatal-boe-a-2026-24335.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/escala-superior-especialistas-transporte-estatal-boe-a-2026-24331.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -326,139 +626,139 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/catedratico-universidad-universidad-almeria-boe-a-2026-24241.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universitarios-universidad-malaga-boe-a-2026-24240.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-alcala-boe-a-2026-24239.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/ingeniero-tecnico-barcelona-boe-a-2026-24238.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/policia-local-ayuntamiento-san-clemente-san-clemente-boe-a-2026-24237.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subinspector-policia-oficial-policia-daganzo-arriba-boe-a-2026-24236.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-electricista-oficial-jardineria-3-mas-gojar-boe-a-2026-24235.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-alcazar-boe-a-2026-24234.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/trabajador-social-trabajador-familiar-consell-boe-a-2026-24233.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/educador-adultos-generalista-ejea-caballeros-boe-a-2026-24232.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-tarragona-boe-a-2026-24231.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-bibliotecario-reus-boe-a-2026-24230.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-portillo-toledo-boe-a-2026-24229.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/policia-local-ribeira-boe-a-2026-24228.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-general-castellanos-moriscos-boe-a-2026-24227.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-departamento-recursos-humanos-aljaraque-boe-a-2026-24226.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-imprenta-mecanico-conductor-7-mas-ciudad-real-boe-a-2026-24225.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-igualdad-borriana-burriana-boe-a-2026-24224.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/peon-especialista-burgos-boe-a-2026-24223.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/guarda-montero-ejea-caballeros-boe-a-2026-24221.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-titulado-medio-informatica-estatal-boe-a-2026-24218.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpo-ingenieros-tecnicos-especialidades-agricolas-estatal-boe-a-2026-24217.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/escala-media-asesoramiento-linguistico-universidad-jaume-i-boe-a-2026-24178.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -476,181 +776,181 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-alcala-boe-a-2026-24175.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/psicologo-servicios-sociales-educador-social-1-mas-godella-boe-a-2026-24174.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-informatica-viladecans-boe-a-2026-24173.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-tecnica-gestion-administrativa-secretaria-almoradi-boe-a-2026-24172.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/guia-didactico-villas-romana-palencia-boe-a-2026-24171.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/psicologo-tecnico-inclusion-social-5-mas-salobrena-boe-a-2026-24170.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/conserje-operario-servicios-multiples-alpedrete-boe-a-2026-24169.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-celador-sant-antoni-portmany-boe-a-2026-24168.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/policia-local-laredo-boe-a-2026-24167.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-oficios-barakaldo-boe-a-2026-24166.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-educacion-castelldefels-boe-a-2026-24165.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/ayudante-cocina-illes-balears-boe-a-2026-24164.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-biblioteca-fortuna-boe-a-2026-24163.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/limpiador-benameji-boe-a-2026-24162.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-oficina-cultural-coma-cros-salt-boe-a-2026-24161.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/arquitecto-puebla-cazalla-boe-a-2026-24160.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-gestion-oviedo-boe-a-2026-24159.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-seccion-juridico-castelldefels-boe-a-2026-24158.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-contabilidad-castelldefels-boe-a-2026-24157.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-artes-plasticas-valencia-boe-a-2026-24156.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-educacion-infantil-alicante-boe-a-2026-24155.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-informatico-navalcarnero-boe-a-2026-24154.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/monitor-ajedrez-estepona-boe-a-2026-24153.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-instalaciones-deportivas-burgos-boe-a-2026-24152.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-l-alfas-pi-boe-a-2026-24151.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-cuerpo-policia-local-puebla-montalban-boe-a-2026-24150.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-maria-boe-a-2026-24149.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpo-catedraticos-musica-artes-escenicas-madrid-boe-a-2026-24148.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpo-profesores-ensenanza-secundaria-cuerpo-cataluna-boe-a-2026-24147.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpo-ingenieros-tecnicos-topografia-estatal-boe-a-2026-24137.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -668,91 +968,91 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/escala-basica-laboratorios-ciencias-universidad-alicante-boe-a-2026-24093.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subgrupo-c1-universidad-nacional-educacion-boe-a-2026-24091.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subgrupo-a1-universitat-valencia-boe-a-2026-24090.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universitarios-universidad-malaga-boe-a-2026-24089.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-malaga-boe-a-2026-24088.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-malaga-boe-a-2026-24087.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/psicologo-san-sebastian-reyes-boe-a-2026-24085.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-municipal-area-intervencion-economia-tecnico-gojar-boe-a-2026-24084.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/alguacil-mayorga-boe-a-2026-24083.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/vigilante-catllar-boe-a-2026-24082.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/arquitecto-auxiliar-biblioteca-almensilla-boe-a-2026-24081.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-prevencion-riesgos-vilanova-cami-boe-a-2026-24080.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-policia-local-sargento-servicio-castello-plana-boe-a-2026-24079.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-jaen-boe-a-2026-24078.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-primera-obras-servicios-multiples-toro-boe-a-2026-24077.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -764,55 +1064,55 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-albacete-boe-a-2026-24075.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-pedagogo-area-politicas-sociales-barcelona-boe-a-2026-24074.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-segunda-servicios-multiples-mantenimiento-duenas-boe-a-2026-24073.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/inspector-cuerpo-policia-local-totana-boe-a-2026-24072.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/psicologo-auxiliar-servicios-tarragona-boe-a-2026-24071.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-zubia-boe-a-2026-24070.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-deportes-abrera-boe-a-2026-24069.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/alguacil-vigilante-municipal-alfarras-boe-a-2026-24068.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/arqueologo-psicologo-denia-boe-a-2026-24067.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -824,19 +1124,19 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-unidad-gestion-ingresos-personal-palencia-boe-a-2026-24065.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-base-datos-avila-boe-a-2026-24064.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpo-ingenieros-geografos-estatal-boe-a-2026-24025.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -848,13 +1148,13 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subgrupo-a2-universidad-zaragoza-boe-a-2026-23958.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/especialidad-informatica-universidad-cadiz-boe-a-2026-23957.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -866,439 +1166,439 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/escala-ayudantes-archivos-bibliotecas-universidad-zaragoza-boe-a-2026-23955.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/escala-facultativa-archivos-bibliotecas-universidad-zaragoza-boe-a-2026-23954.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-almeria-boe-a-2026-23951.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-alcala-boe-a-2026-23950.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/catedraticos-universidad-universidad-murcia-boe-a-2026-23949.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universitarios-universidad-murcia-boe-a-2026-23948.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-cocentaina-boe-a-2026-23947.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/conserje-polideportivo-coordinador-centro-cultural-hernani-boe-a-2026-23945.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-juridico-tecnico-polinya-boe-a-2026-23944.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/conserje-colegio-publico-villanueva-gallego-boe-a-2026-23943.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/responsable-departamento-servicios-publicos-hernani-boe-a-2026-23942.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-tecnico-gestion-lleida-boe-a-2026-23941.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-trabajo-social-enfermero-donostia-san-sebastian-boe-a-2026-23939.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/enfermeria-obstetrico-ginecologico-matron-estatal-boe-a-2026-23922.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/proceso-selectivo-concurso-sistema-general-acceso-estatal-boe-a-2026-23921.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesorado-titular-universidad-pais-vasco-euskal-boe-a-2026-23870.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/catedratico-universidad-universidad-coruna-boe-a-2026-23869.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universitarios-universidad-coruna-boe-a-2026-23868.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/archivero-auxiliar-administrativo-navacerrada-boe-a-2026-23866.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/operario-servicios-multiples-ciudad-real-boe-a-2026-23865.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/peon-peona-enterrador-obras-brigada-obras-gata-gorgos-boe-a-2026-23864.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/ingeniero-tecnico-sentmenat-boe-a-2026-23863.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-administracion-general-malpartida-caceres-boe-a-2026-23862.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-villalbilla-boe-a-2026-23861.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/peon-operario-servicios-fondo-les-neus-hondon-nieves-boe-a-2026-23860.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/trabajador-social-segovia-boe-a-2026-23859.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-farmacia-illes-balears-boe-a-2026-23858.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/operario-sabadell-boe-a-2026-23857.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subalterno-sabadell-boe-a-2026-23856.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/inspector-policia-local-oficial-policia-local-1-mas-alicante-boe-a-2026-23855.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliares-apoyo-global-getafe-boe-a-2026-23854.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/policia-local-moralzarzal-boe-a-2026-23853.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-servicios-generales-adscrita-area-seva-boe-a-2026-23852.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-primera-tractorista-pravia-boe-a-2026-23851.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-tarragona-boe-a-2026-23850.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/escala-tecnicos-medios-informatica-universidad-zaragoza-boe-a-2026-23809.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universitarios-universidad-alcala-boe-a-2026-23808.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/sargento-bomberos-cuenca-boe-a-2026-23807.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/responsable-gestion-expedientes-informatica-astigarraga-boe-a-2026-23806.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-intervencion-azkoitia-boe-a-2026-23805.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-policia-local-antequera-boe-a-2026-23804.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/peon-servicios-multiples-hoyo-manzanares-boe-a-2026-23803.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-santa-eugenia-boe-a-2026-23802.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-recursos-humanos-solana-boe-a-2026-23801.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-cerrajero-alcorcon-boe-a-2026-23800.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-primera-electricista-pravia-boe-a-2026-23799.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/inspector-policia-local-huelva-boe-a-2026-23798.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/policia-local-huelva-boe-a-2026-23797.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subinspector-policia-local-oficial-policia-local-huelva-boe-a-2026-23796.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subgrupo-a2-universitat-valencia-boe-a-2026-23722.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-obra-salt-boe-a-2026-23720.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/operario-mantenimiento-media-jornada-villalar-comuneros-boe-a-2026-23719.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliares-administrativos-guadarrama-boe-a-2026-23718.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/asesor-juridico-administrativo-bonares-boe-a-2026-23717.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/ingeniero-tecnico-industrial-atarfe-boe-a-2026-23716.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/monitor-deportivo-segura-sierra-boe-a-2026-23715.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-palmar-troya-boe-a-2026-23714.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/psicologo-servicios-sociales-psicologo-atencion-velez-malaga-boe-a-2026-23713.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/arquitecto-tecnico-badajoz-boe-a-2026-23712.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-gestion-administrativa-badajoz-boe-a-2026-23711.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-valladolid-boe-a-2026-23710.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administracion-general-peligros-boe-a-2026-23709.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/policia-local-nueva-carteya-boe-a-2026-23708.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cocinero-illes-balears-boe-a-2026-23707.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-unidad-gestion-instalaciones-palencia-boe-a-2026-23705.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-massalfassar-boe-a-2026-23704.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/trabajador-social-navalcarnero-boe-a-2026-23703.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/peon-servicios-multiples-cigales-boe-a-2026-23702.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/conserje-ordenanza-betera-boe-a-2026-23701.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-especial-recursos-humanos-barbate-boe-a-2026-23700.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-guardia-municipal-donostia-san-sebastian-boe-a-2026-23699.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-adscrito-servicio-contabilidad-rabade-boe-a-2026-23698.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/titulado-superior-funcion-administrativa-estatal-boe-a-2026-23694.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1310,151 +1610,151 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subgrupo-c2-universidad-granada-boe-a-2026-23651.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-proyecto-eunice-universidad-cantabria-boe-a-2026-23650.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-granada-boe-a-2026-23649.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-barbate-boe-a-2026-23648.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-operario-serivicios-pradena-boe-a-2026-23647.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-policia-ferreries-boe-a-2026-23646.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-servicios-urbanisticos-municipales-lleida-boe-a-2026-23645.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-enfermero-trabajo-getafe-boe-a-2026-23644.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-torrejon-ardoz-boe-a-2026-23643.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/ingeniero-masnou-boe-a-2026-23642.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/dinamizador-innovacion-local-tiempo-parcial-hinojares-boe-a-2026-23641.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-yecla-boe-a-2026-23640.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-igualdad-palencia-boe-a-2026-23639.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-lloret-mar-boe-a-2026-23638.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-soneja-boe-a-2026-23635.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnicos-administracion-general-guadarrama-boe-a-2026-23634.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-ingles-escuela-permanente-adultos-meliana-boe-a-2026-23633.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-administrativa-guadalcanal-boe-a-2026-23632.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-primera-almacen-zaragoza-boe-a-2026-23631.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/asesor-juridico-atencion-primaria-dedicacion-parcial-meliana-boe-a-2026-23630.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-oficial-servicios-salobrena-boe-a-2026-23629.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-general-obras-servicios-personal-limpieza-castuera-boe-a-2026-23628.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-administrativo-castuera-boe-a-2026-23627.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-adminitrativo-avila-boe-a-2026-23626.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/policia-local-ses-salines-boe-a-2026-23625.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1466,967 +1766,967 @@
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subgrupo-c1-universidad-jaume-i-boe-a-2026-23587.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/personal-laboral-grupo-iii-universidad-nacional-educacion-boe-a-2026-23586.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subgrupo-a1-universitat-valencia-boe-a-2026-23582.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/catedraticos-universidad-universidad-jaen-boe-a-2026-23581.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/concurso-acceso-plaza-vinculada-universidad-salamanca-boe-a-2026-23580.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/concurso-acceso-plaza-vinculada-universidad-salamanca-boe-a-2026-23579.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universidad-autonoma-barcelona-boe-a-2026-23577.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-prevencion-riesgos-tecnico-juridico-9-mas-calvia-boe-a-2026-23574.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-servicios-multiples-tarazona-boe-a-2026-23573.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/operario-obras-jardines-limpieza-viaria-almonaster-real-boe-a-2026-23572.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agentes-policia-local-benalup-casas-viejas-boe-a-2026-23571.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-encargada-brigada-obras-legazpi-boe-a-2026-23570.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-especialista-dinamizacion-inspector-viladecans-boe-a-2026-23569.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-departamento-benalup-casas-viejas-boe-a-2026-23568.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medios-comunicacion-sant-pere-ribes-boe-a-2026-23567.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/inspector-guardia-urbana-manresa-boe-a-2026-23566.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/trabajador-social-garriga-boe-a-2026-23565.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-corvera-asturias-boe-a-2026-23564.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-urbanismo-puebla-guzman-boe-a-2026-23563.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-policia-epila-boe-a-2026-23562.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-informatica-gestion-almassora-boe-a-2026-23561.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/delineante-tecnico-turismo-5-mas-calvia-boe-a-2026-23560.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-empleo-desarrollo-local-realejos-boe-a-2026-23559.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-oficiala-primera-fontanero-oficial-oficiala-alaquas-boe-a-2026-23558.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/coordinador-limpieza-ribes-freser-boe-a-2026-23557.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/vigilante-municipal-l-espluga-francoli-boe-a-2026-23556.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-servicios-sociales-coruna-boe-a-2026-23555.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-seguridad-tecnico-superior-coruna-boe-a-2026-23554.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-auxiliar-biblioteca-coruna-boe-a-2026-23553.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-archivo-biblioteca-valencia-boe-a-2026-23552.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/conserje-polideportivo-valencia-boe-a-2026-23551.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-oficios-jefe-taller-encargado-estatal-boe-a-2026-23546.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/ingeniero-superior-estatal-boe-a-2026-23545.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subgrupo-a1-universidad-lleida-boe-a-2026-23476.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/catedratico-universidad-universidad-salamanca-boe-a-2026-23475.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universitarios-universidad-leon-boe-a-2026-23474.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-illes-balears-boe-a-2026-23473.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/catedratico-universidad-universidad-illes-balears-boe-a-2026-23472.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universitarios-universidad-alicante-boe-a-2026-23471.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universitarios-universidad-coruna-boe-a-2026-23470.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/enfermero-sarria-boe-a-2026-23467.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/guardia-municipal-ribes-freser-boe-a-2026-23466.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-primera-obras-valdepenas-boe-a-2026-23465.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/adminsitrativo-va-cervello-boe-a-2026-23464.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-tecnologias-informacion-tecnico-leon-boe-a-2026-23463.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-ciudadania-vic-boe-a-2026-23462.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-salud-publica-veterinario-valladolid-boe-a-2026-23461.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-valladolid-boe-a-2026-23460.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/ayudante-produccion-santa-cruz-tenerife-boe-a-2026-23459.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/informador-turistico-operario-parques-jardines-2-mas-sarria-boe-a-2026-23458.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/peon-operario-mantenimiento-alcudia-boe-a-2026-23457.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-jardineria-pedrajas-san-esteban-boe-a-2026-23456.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-turismo-culla-boe-a-2026-23455.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/arquitecto-tecnico-ronda-boe-a-2026-23454.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-primera-carpintero-cordoba-boe-a-2026-23453.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/ingeniero-tecnico-industrial-palma-boe-a-2026-23452.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/arquitecto-arta-boe-a-2026-23451.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliares-clinica-residencia-social-pollenca-boe-a-2026-23450.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-bascara-boe-a-2026-23449.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-tecnico-gestion-calvia-boe-a-2026-23448.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/informador-turistico-culla-boe-a-2026-23447.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-gestion-economica-carolina-boe-a-2026-23446.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-picanya-boe-a-2026-23445.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/psicologo-coruna-boe-a-2026-23444.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-proteccion-civil-coruna-boe-a-2026-23443.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-museos-cientificos-tecnico-coruna-boe-a-2026-23442.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/conserje-edificios-publicos-sant-joan-d-alacant-boe-a-2026-23441.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/locutor-locutora-radio-altea-altea-boe-a-2026-23440.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-juventud-muro-alcoy-boe-a-2026-23439.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-empleo-desarrollo-local-betxi-boe-a-2026-23438.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/alguacil-soneja-boe-a-2026-23437.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cabos-extincion-incendios-melilla-boe-a-2026-23436.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/personal-oficial-primera-electricista-brigada-puigcerda-boe-a-2026-23435.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/monitor-deportes-tijola-boe-a-2026-23434.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-archivo-torrejon-ardoz-boe-a-2026-23433.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-iva-els-pallaresos-boe-a-2026-23432.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-hornachuelos-boe-a-2026-23431.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-mantenimiento-auxiliar-cuidador-5-mas-illes-balears-boe-a-2026-23430.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-valencia-boe-a-2026-23429.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cabo-bombero-oficial-bombero-1-mas-valencia-boe-a-2026-23428.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/vigilante-instalaciones-museograficas-trabajador-denia-boe-a-2026-23427.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/trabajador-social-jaen-boe-a-2026-23426.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-aguas-logrono-boe-a-2026-23360.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-gestion-administracion-general-espinar-boe-a-2026-23359.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-cabanillas-campo-boe-a-2026-23358.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-sanidad-rozas-madrid-boe-a-2026-23357.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/monitor-dinamizador-turismo-patrimonio-almonaster-real-boe-a-2026-23356.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-l-alcora-boe-a-2026-23355.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/profesor-titular-universidad-universidad-coruna-boe-a-2026-23312.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-ingeniero-tecnico-industrial-guadarrama-boe-a-2026-23310.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-medio-medio-ambiente-guadarrama-boe-a-2026-23309.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-edificacion-obras-sant-fruitos-bages-boe-a-2026-23308.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/operario-servicios-multiples-nava-arevalo-boe-a-2026-23307.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/encargado-valladolid-boe-a-2026-23306.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-rama-social-madrid-boe-a-2026-23305.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-rama-social-madrid-boe-a-2026-23304.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/peon-brigada-fraga-boe-a-2026-23303.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-servicio-municipios-lleida-boe-a-2026-23215.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subinspector-policia-local-san-andres-rabanedo-boe-a-2026-23214.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/maestro-oficial-servicios-multiples-tecnico-medio-maracena-boe-a-2026-23213.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-grado-boe-a-2026-23212.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/educador-social-garriga-boe-a-2026-23211.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/guarda-campo-don-benito-boe-a-2026-23210.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-logistica-don-benito-boe-a-2026-23209.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/trabajador-social-garriga-boe-a-2026-23208.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/personal-arquitecto-tecnico-peza-boe-a-2026-23207.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-bembibre-boe-a-2026-23206.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-albuixech-boe-a-2026-23205.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/ayudante-cocina-denia-boe-a-2026-23204.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-oficiala-tercera-oficios-auxiliares-estatal-boe-a-2026-23196.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subgrupo-a2-universidad-granada-boe-a-2026-23062.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-prevencion-riesgos-laborales-universidad-coruna-boe-a-2026-23061.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/catedratico-universidad-universidad-extremadura-boe-a-2026-23060.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/arquitecto-monitor-cultural-pintura-1-mas-maracena-boe-a-2026-23058.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-cultura-illes-balears-boe-a-2026-23057.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-formacion-desarrollo-local-nucia-boe-a-2026-23056.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-coruna-boe-a-2026-23055.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/arquitecto-tecnico-ames-boe-a-2026-23054.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/personal-administrativo-puigcerda-boe-a-2026-23053.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-gestion-tributaria-sant-joan-d-alacant-boe-a-2026-23052.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-dinamizador-ocupacional-lleida-boe-a-2026-23051.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/dinamizador-bibliotecas-santa-cruz-palma-boe-a-2026-23050.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/agente-policia-local-borriana-burriana-boe-a-2026-23049.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-gestion-torello-boe-a-2026-23048.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/graduado-social-alcudia-boe-a-2026-23047.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/policia-local-seron-boe-a-2026-23046.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-tarragona-boe-a-2026-23045.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-villa-rio-boe-a-2026-23044.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-escurial-boe-a-2026-23043.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/educador-social-torrox-boe-a-2026-23042.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/subalterno-torrox-boe-a-2026-23041.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-administracion-general-mostoles-boe-a-2026-23040.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administrativo-cudillero-boe-a-2026-23039.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/bibliotecario-salobrena-boe-a-2026-23038.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-superior-servicios-sociales-psicologo-almoradi-boe-a-2026-23037.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-tecnica-sanidad-altea-boe-a-2026-23036.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/limpiadora-lavandera-carmona-boe-a-2026-23035.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/letrada-asesor-juridica-universidad-publica-navarra-boe-a-2026-22958.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/cuerpos-docentes-universitarios-universidad-murcia-boe-a-2026-22952.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/gestor-administrativo-general-villamalea-boe-a-2026-22951.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/operario-comedor-escuela-infantil-municipal-celra-boe-a-2026-22950.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-oficiala-segunda-mantenimiento-obras-xeresa-boe-a-2026-22949.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-proteccion-civil-servicios-lleida-boe-a-2026-22948.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-primera-albanil-oficial-primera-pintor-8-mas-ecija-boe-a-2026-22947.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/medico-barakaldo-boe-a-2026-22946.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-juventud-alfafar-boe-a-2026-22945.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-huescar-boe-a-2026-22944.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/jefe-dotacion-servicio-prevencion-extincion-benalmadena-boe-a-2026-22943.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-atencion-publico-cadiz-boe-a-2026-22942.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/suboficial-coruna-boe-a-2026-22941.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-gestion-informatica-guadarrama-boe-a-2026-22940.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/administrativo-cadiz-boe-a-2026-22939.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/peon-servicios-multiples-valdestillas-boe-a-2026-22938.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-auxiliar-sonido-luces-audiovisuales-tiempo-cardedeu-boe-a-2026-22937.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/auxiliar-administracion-general-campello-boe-a-2026-22936.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/inspector-subinspector-almeria-boe-a-2026-22935.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/educadores-sociales-loja-boe-a-2026-22934.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-obras-servicios-pazos-borben-boe-a-2026-22933.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/intendente-orihuela-boe-a-2026-22932.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/oficial-obras-cudillero-boe-a-2026-22931.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://oposicionesesp.es/convocatorias/tecnico-sanidad-ambiental-oficial-electricista-alicante-boe-a-2026-22930.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
